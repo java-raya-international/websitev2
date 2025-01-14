@@ -13,6 +13,9 @@ export default defineNuxtConfig({
       mode: "out-in",
     },
   },
+
+  calendly: {},
+
   css: [
     "bootstrap/dist/css/bootstrap.min.css",
     "/assets/css/remixicon.css",
@@ -23,6 +26,11 @@ export default defineNuxtConfig({
 
   build: {
     transpile: ["vuetify"],
+  },
+
+  icon: {
+    provider: 'iconify',
+    serverBundle: false,
   },
 
   modules: [
@@ -45,6 +53,8 @@ export default defineNuxtConfig({
       );
     },
     "nuxt-swiper",
+    "nuxt-calendly",
+    "@nuxt/icon",
   ],
 
   vite: {

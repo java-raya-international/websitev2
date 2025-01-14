@@ -10,11 +10,16 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@iconify-json/cryptocurrency-color": "^1.2.2",
+    "@iconify-json/flag": "^1.2.3",
+    "@iconify-json/token-branded": "^1.2.9",
+    "@nuxt/icon": "1.10.3",
     "algoliasearch": "^5.19.0",
     "bootstrap": "^5.3.3",
     "dotenv": "^16.4.7",
     "instantsearch.css": "^8.5.1",
     "nuxt": "^3.15.1",
+    "nuxt-calendly": "0.1.21",
     "nuxt-content-algolia": "^0.2.0",
     "nuxt-swiper": "^1.2.2",
     "remove-markdown": "^0.6.0",
@@ -26,5 +31,6 @@
     "sass": "^1.77.8",
     "vite-plugin-vuetify": "^2.0.3",
     "vuetify": "^3.6.13"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
