@@ -3,15 +3,14 @@
 </script>
 
 <template>
-  <LayoutTopHeader />
-  <LayoutMiddleHeader />
-  <LayoutNavbarStyleTwo />
+  <div>
+    <LayoutTopHeader/>
+    <LayoutMiddleHeader/>
+    <LayoutNavbarStyleTwo/>
 
 
-
-  <LayoutFooter />
-
-
+    <LayoutFooter/>
+  </div>
 </template>
 
 <style scoped lang="scss">
