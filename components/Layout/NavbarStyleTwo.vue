@@ -46,7 +46,7 @@
             <!--            </ul>-->
           </li>
 
-          <li class="nav-item mega-menu" >
+          <li class="nav-item mega-menu">
             <a class="nav-link dropdown-toggle" href="#"> Products </a>
 
             <ul class="dropdown-menu">
@@ -63,36 +63,6 @@
                       </li>
                     </ul>
                   </div>
-
-
-                  <!--                  <div class="col">-->
-                  <!--                    <h6 class="sub-menu-title">Foods</h6>-->
-
-                  <!--                    <ul class="sub-menu">-->
-                  <!--                      <li>-->
-                  <!--                        <NuxtLink class="dropdown-item" to="/products/foods/coconut">-->
-                  <!--                          Coconut-->
-                  <!--                        </NuxtLink>-->
-                  <!--                      </li>-->
-                  <!--                    </ul>-->
-                  <!--                  </div>-->
-
-                  <!--                  <div class="col">-->
-                  <!--                    <h6 class="sub-menu-title">Materials</h6>-->
-
-                  <!--                    <ul class="sub-menu">-->
-                  <!--                      <li>-->
-                  <!--                        <NuxtLink class="dropdown-item" to="/products/materials/bronze-cooper">-->
-                  <!--                          Bronze and Copper Ingots-->
-                  <!--                        </NuxtLink>-->
-                  <!--                      </li>-->
-                  <!--                      <li>-->
-                  <!--                        <NuxtLink class="dropdown-item" to="/products/materials/steel">-->
-                  <!--                          Steel Ingots-->
-                  <!--                        </NuxtLink>-->
-                  <!--                      </li>-->
-                  <!--                    </ul>-->
-                  <!--                  </div>-->
 
 
                 </div>
@@ -223,7 +193,7 @@ import image from "~/assets/images/menu-product.jpg";
 
 export default defineComponent({
   name: "NavbarStyleTwo",
-  data(){
+  data() {
     return {
       productsJson
     }
