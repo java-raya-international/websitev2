@@ -25,7 +25,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto">
           <li class="nav-item dropdown">
-            <a class="nav-link" href="#"> Home </a>
+            <a class="nav-link" href="/"> Home </a>
 
             <!--            <ul class="dropdown-menu">-->
             <!--              <li>-->
