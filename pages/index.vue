@@ -3,7 +3,7 @@
     <LayoutTopHeader />
     <LayoutMiddleHeader />
     <LayoutNavbarStyleTwo />
-
+    <FrontPageBanner />
 
 
     <LayoutFooter />

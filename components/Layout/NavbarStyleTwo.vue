@@ -46,83 +46,55 @@
             <!--            </ul>-->
           </li>
 
-          <li class="nav-item mega-menu">
+          <li class="nav-item mega-menu" >
             <a class="nav-link dropdown-toggle" href="#"> Products </a>
 
             <ul class="dropdown-menu">
               <li class="nav-item">
                 <div class="row">
-                  <div class="col">
-                    <h6 class="sub-menu-title">Foods</h6>
+                  <div class="col" v-for="(product,index) in productsJson" :key="index">
+                    <h6 class="sub-menu-title">{{ product.title }}</h6>
 
-                    <ul class="sub-menu">
+                    <ul class="sub-menu" v-for="(item, index2) in product.items" :key="index2">
                       <li>
-                        <NuxtLink class="dropdown-item" to="/products/foods/coconut">
-                          Coconut Products
+                        <NuxtLink class="dropdown-item" :to="item.relativeURL">
+                          {{ item.title }}
                         </NuxtLink>
                       </li>
                     </ul>
                   </div>
 
-                  <div class="col">
-                    <h6 class="sub-menu-title">Materials</h6>
-
-                    <ul class="sub-menu">
-                      <li>
-                        <NuxtLink class="dropdown-item" to="/products/materials/bronze-cooper">
-                          Bronze and Copper Ingots
-                        </NuxtLink>
-                      </li>
-                      <li>
-                        <NuxtLink class="dropdown-item" to="/products/materials/steel">
-                          Steel Ingots
-                        </NuxtLink>
-                      </li>
-                    </ul>
-                  </div>
 
                   <!--                  <div class="col">-->
-                  <!--                    <h6 class="sub-menu-title"> </h6>-->
+                  <!--                    <h6 class="sub-menu-title">Foods</h6>-->
 
                   <!--                    <ul class="sub-menu">-->
                   <!--                      <li>-->
-                  <!--                        <NuxtLink class="dropdown-item" to="/dashboard">-->
-                  <!--                          Dashboard-->
-                  <!--                        </NuxtLink>-->
-                  <!--                      </li>-->
-                  <!--                      <li>-->
-                  <!--                        <NuxtLink class="dropdown-item" to="/edit-profile">-->
-                  <!--                          Edit Profile-->
-                  <!--                        </NuxtLink>-->
-                  <!--                      </li>-->
-                  <!--                      <li>-->
-                  <!--                        <NuxtLink class="dropdown-item" to="/order-history">-->
-                  <!--                          Order History-->
-                  <!--                        </NuxtLink>-->
-                  <!--                      </li>-->
-                  <!--                      <li>-->
-                  <!--                        <NuxtLink class="dropdown-item" to="/order-details">-->
-                  <!--                          Order Details-->
-                  <!--                        </NuxtLink>-->
-                  <!--                      </li>-->
-                  <!--                      <li>-->
-                  <!--                        <NuxtLink class="dropdown-item" to="/password">-->
-                  <!--                          Change Password-->
+                  <!--                        <NuxtLink class="dropdown-item" to="/products/foods/coconut">-->
+                  <!--                          Coconut-->
                   <!--                        </NuxtLink>-->
                   <!--                      </li>-->
                   <!--                    </ul>-->
                   <!--                  </div>-->
 
                   <!--                  <div class="col">-->
-                  <!--                    <NuxtLink-->
-                  <!--                        to="/products"-->
-                  <!--                        class="bg-img menu-img"-->
-                  <!--                        :style="{-->
-                  <!--                        'background-image': `url(${image})`,-->
-                  <!--                      }"-->
-                  <!--                    >-->
-                  <!--                    </NuxtLink>-->
+                  <!--                    <h6 class="sub-menu-title">Materials</h6>-->
+
+                  <!--                    <ul class="sub-menu">-->
+                  <!--                      <li>-->
+                  <!--                        <NuxtLink class="dropdown-item" to="/products/materials/bronze-cooper">-->
+                  <!--                          Bronze and Copper Ingots-->
+                  <!--                        </NuxtLink>-->
+                  <!--                      </li>-->
+                  <!--                      <li>-->
+                  <!--                        <NuxtLink class="dropdown-item" to="/products/materials/steel">-->
+                  <!--                          Steel Ingots-->
+                  <!--                        </NuxtLink>-->
+                  <!--                      </li>-->
+                  <!--                    </ul>-->
                   <!--                  </div>-->
+
+
                 </div>
               </li>
             </ul>
@@ -244,11 +216,19 @@
 import {defineComponent, ref, onMounted} from "vue";
 import stateStore from "~/utils/store";
 
+import productsJson from "~/data/products/products-index.json";
+
+
 import image from "~/assets/images/menu-product.jpg";
 
 export default defineComponent({
   name: "NavbarStyleTwo",
-  setup() {
+  data(){
+    return {
+      productsJson
+    }
+  },
+  async setup() {
     const isSticky = ref(false);
     const show = ref(false);
     const stateStoreInstance = stateStore;
