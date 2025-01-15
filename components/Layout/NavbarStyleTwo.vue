@@ -5,7 +5,7 @@
     <div class="container mw-1610">
       <NuxtLink class="navbar-brand d-lg-none" to="/">
         <img
-            src="~/assets/images/grocery-shop-logo.png"
+            src="~/assets/brands/0000015_javaraya-logo-with-words.png"
             class="main-logo"
             alt="white-logo"
         />
