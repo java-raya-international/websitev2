@@ -1,0 +1,33 @@
+[
+  {
+    "name": "about-us",
+    "title": "About Us",
+    "relativeUrl": "/about/us"
+  },
+  {
+    "name": "company",
+    "title": "Company",
+    "relativeUrl": "/about/company"
+  },
+  {
+    "name": "leadership",
+    "title": "Leadership",
+    "relativeUrl": "/about/leadership"
+  },
+  {
+    "name": "privacy",
+    "title": "Privacy Policy",
+    "relativeUrl": "/about/privacy"
+  },
+  {
+    "name": "terms",
+    "title": "Terms and Condition",
+    "relativeUrl": "/about/toc"
+  },
+  {
+    "name": "refund",
+    "title": "Refund Policy",
+    "relativeUrl": "/about/refund"
+  }
+
+]
