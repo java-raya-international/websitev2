@@ -4,11 +4,11 @@
   >
     <div class="container mw-1610">
       <NuxtLink class="navbar-brand d-lg-none" to="/">
-<!--        <img-->
-<!--            src="~/assets/brands/0000015_javaraya-logo-with-words.png"-->
-<!--            class="main-logo"-->
-<!--            alt="white-logo"-->
-<!--        />-->
+        <!--        <img-->
+        <!--            src="~/assets/brands/0000015_javaraya-logo-with-words.png"-->
+        <!--            class="main-logo"-->
+        <!--            alt="white-logo"-->
+        <!--        />-->
       </NuxtLink>
       <a
           class="navbar-toggler"
@@ -57,33 +57,13 @@
           <li class="nav-item dropdown">
             <a href="#" class="nav-link dropdown-toggle"> About </a>
 
-            <ul class="dropdown-menu" >
+            <ul class="dropdown-menu">
               <li v-for="(link,index) in aboutLinksJson" :key="index">
                 <NuxtLink class="dropdown-item" :to="link.relativeUrl">
-                  {{link.title}}
+                  {{ link.title }}
                 </NuxtLink>
               </li>
-<!--              <li>-->
-<!--                <NuxtLink class="dropdown-item" to="/about/company"> Company</NuxtLink>-->
-<!--              </li>-->
-<!--              <li>-->
-<!--                <NuxtLink class="dropdown-item" to="/about/leadership"> Leadership</NuxtLink>-->
-<!--              </li>-->
-<!--              <li>-->
-<!--                <NuxtLink class="dropdown-item" to="/about/privacy">-->
-<!--                  Privacy Policy-->
-<!--                </NuxtLink>-->
-<!--              </li>-->
-<!--              <li>-->
-<!--                <NuxtLink class="dropdown-item" to="/about/toc">-->
-<!--                  Terms & Conditions-->
-<!--                </NuxtLink>-->
-<!--              </li>-->
-<!--              <li>-->
-<!--                <NuxtLink class="dropdown-item" to="/about/refund">-->
-<!--                  Refund Policy-->
-<!--                </NuxtLink>-->
-<!--              </li>-->
+
             </ul>
           </li>
 
@@ -92,7 +72,7 @@
 
             <ul class="dropdown-menu">
               <li>
-                <NuxtLink class="dropdown-item" to="/our-blog">
+                <NuxtLink class="dropdown-item" to="/blogs">
                   Our Blog
                 </NuxtLink>
               </li>

@@ -71,48 +71,13 @@
               <li>
                 <NuxtLink
                     class="dropdown-item"
-                    to="/our-blog"
+                    to="/blogs"
                     @click="stateStoreInstance.onChangeShow"
                 >
                   Our Blog
                 </NuxtLink>
               </li>
-              <li>
-                <NuxtLink
-                    class="dropdown-item"
-                    to="/blog-details"
-                    @click="stateStoreInstance.onChangeShow"
-                >
-                  Blog Details
-                </NuxtLink>
-              </li>
-              <li>
-                <NuxtLink
-                    class="dropdown-item"
-                    to="/tags"
-                    @click="stateStoreInstance.onChangeShow"
-                >
-                  Tags
-                </NuxtLink>
-              </li>
-              <li>
-                <NuxtLink
-                    class="dropdown-item"
-                    to="/categories"
-                    @click="stateStoreInstance.onChangeShow"
-                >
-                  Categories
-                </NuxtLink>
-              </li>
-              <li>
-                <NuxtLink
-                    class="dropdown-item"
-                    to="/author"
-                    @click="stateStoreInstance.onChangeShow"
-                >
-                  Author
-                </NuxtLink>
-              </li>
+
             </ul>
           </v-expansion-panel-text>
         </v-expansion-panel>

@@ -1,32 +1,51 @@
- [
-    {
-      "category": "foods",
-      "title": "Foods",
-      "items": [
-        {
-          "subcategory": "coconuts-products",
-          "title": "Coconut",
-          "relativeURL": "/products/foods/coconut",
-          "data": "~/data/products/foods/product-coconut-sugar.json"
-        }
-      ]
-    },
-    {
-      "category": "materials-metals",
-      "title": "Materials and Metals",
-      "items": [
-        {
-          "subcategory": "bronze-copper",
-          "title": "Bronze and Copper Ingots",
-          "relativeURL": "/products/materials/bronze-copper",
-          "data": "~/data/products/materials/product-bronze-copper.json"
-        },
-        {
-          "subcategory": "steel",
-          "title": "Steel",
-          "relativeURL": "/products/materials/steel",
-          "data": "~/data/products/materials/steel.json"
-        }
-      ]
-    }
-  ]
+[
+  {
+    "category": "foods-beverages",
+    "title": "Foods",
+    "items": [
+      {
+        "subcategory": "product-coconut",
+        "title": "Coconut",
+        "relativeURL": "/products/foods/coconut",
+        "data": "~/data/products/foods/product-coconut-sugar.json"
+      },
+      {
+        "subcategory": "product-rice",
+        "title": "Rice",
+        "relativeURL": "/products/foods/rice",
+        "data": "~/data/products/foods/product-rice.json"
+      }
+    ]
+  },
+  {
+    "category": "craft",
+    "title": "Craft",
+    "items": [
+      {
+        "subcategory": "green-craft",
+        "title": "Green Craft",
+        "relativeURL": "/products/materials/bronze-copper",
+        "data": "~/data/products/materials/product-bronze-copper.json"
+      }
+
+    ]
+  },
+  {
+    "category": "materials-metals",
+    "title": "Materials and Metals",
+    "items": [
+      {
+        "subcategory": "bronze-copper",
+        "title": "Bronze and Copper Ingots",
+        "relativeURL": "/products/materials/bronze-copper",
+        "data": "~/data/products/materials/product-bronze-copper.json"
+      },
+      {
+        "subcategory": "steel",
+        "title": "Steel",
+        "relativeURL": "/products/materials/steel",
+        "data": "~/data/products/materials/steel.json"
+      }
+    ]
+  }
+]
