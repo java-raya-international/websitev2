@@ -118,7 +118,7 @@ import aboutLinksJson from "~/data/navigation/about-links.json";
 import image from "~/assets/images/menu-product.jpg";
 
 export default defineComponent({
-  name: "NavbarStyleTwo",
+  name: "NavbarDesktop",
   data() {
     return {
       productsJson,

@@ -2,7 +2,7 @@
   <div>
     <LayoutTopHeader />
     <LayoutMiddleHeaderTwo />
-    <LayoutNavbarStyleTwo />
+    <LayoutNavbarDesktop />
     <GroceryShopBanner />
     <GroceryShopPopularCategories />
     <GroceryShopOffers />

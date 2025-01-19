@@ -2,7 +2,7 @@
   <div>
     <LayoutTopHeader />
     <LayoutMiddleHeader />
-    <LayoutNavbarStyleTwo />
+    <LayoutNavbarDesktop />
     <FrontPageBanner />
 
 

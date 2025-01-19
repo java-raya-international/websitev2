@@ -6,7 +6,7 @@
   <div>
     <LayoutTopHeader/>
     <LayoutMiddleHeader/>
-    <LayoutNavbarStyleTwo/>
+    <LayoutNavbarDesktop/>
 
 
     <LayoutFooter/>
