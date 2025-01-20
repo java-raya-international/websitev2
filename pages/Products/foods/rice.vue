@@ -6,7 +6,9 @@
   <div>
     <LayoutTopHeader/>
     <LayoutMiddleHeader/>
-    <LayoutNavbarStyleTwo/>
+    <LayoutNavbarDesktop/>
+    <ProductsRiceList />
+
 
 
     <LayoutFooter/>

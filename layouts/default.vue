@@ -2,7 +2,7 @@
   <div>
     <LayoutPreloader v-if="isLoading" />
     <NuxtPage/>
-    <LayoutResponsiveNavbar />
+    <LayoutNavbarMobile />
     <LayoutLocationOption />
     <LayoutCopyright />
     <LayoutBackToUp />
