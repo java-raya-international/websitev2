@@ -1,15 +1,18 @@
 [
   {
+    "id": "01",
     "category": "foods-beverages",
     "title": "Foods",
     "items": [
       {
+        "id": "01",
         "subcategory": "product-coconut",
         "title": "Coconut",
         "relativeURL": "/products/foods/coconut",
         "data": "~/data/products/foods/product-coconut-sugar.json"
       },
       {
+        "id": "02",
         "subcategory": "product-rice",
         "title": "Rice",
         "relativeURL": "/products/foods/rice",
@@ -18,10 +21,12 @@
     ]
   },
   {
+    "id": "02",
     "category": "craft",
     "title": "Craft",
     "items": [
       {
+        "id": "01",
         "subcategory": "green-craft",
         "title": "Green Craft",
         "relativeURL": "/products/materials/bronze-copper",
@@ -31,16 +36,19 @@
     ]
   },
   {
+    "id": "03",
     "category": "materials-metals",
     "title": "Materials and Metals",
     "items": [
       {
+        "id": "01",
         "subcategory": "bronze-copper",
         "title": "Bronze and Copper Ingots",
         "relativeURL": "/products/materials/bronze-copper",
         "data": "~/data/products/materials/product-bronze-copper.json"
       },
       {
+        "id": "02",
         "subcategory": "steel",
         "title": "Steel",
         "relativeURL": "/products/materials/steel",

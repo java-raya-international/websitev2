@@ -13,6 +13,9 @@ export default defineNuxtPlugin((app) => {
       ...components,
     },
     directives,
+    theme: {
+      defaultTheme: 'light',
+    }
   });
   app.vueApp.use(vuetify);
 });

@@ -1,0 +1,683 @@
+[
+  {
+    "id": "01020001",
+    "name": "Organic Red Rice",
+    "description": "Indonesia organic red rice from East Java island Banyuwangi rice plantation ",
+    "description2": "The\norganic red rice produced by sirtanio comes from\nspecial seeds from the village of Segobang Banyuwangi,\nIndonesia Sirtanio's organic rice seeds are certified and\ncan\nonly be planted in Banyuwangi Rice that has been\ncooked from sirtanio rice has a distinctive texture,\nfragrant, soft and of course certified organic",
+    "category": "",
+    "manufacturingURL": "",
+    "tags": [
+      "food",
+      "red rice",
+      "organic food"
+    ],
+    "genericSpecification": {
+      "description": "glycemic index of 56 with folic acid content of 208 8 mcg/ 100 g",
+      "isEdible": "",
+      "moisture": "",
+      "color": [
+        "dark red",
+        "red"
+      ],
+      "taste": [
+        "sweet",
+        "normal sweet"
+      ],
+      "smell": [],
+      "form": [
+        "rice"
+      ],
+      "expired": "12 Months"
+    },
+    "certificates": [
+      {
+        "name": "Indonesia Halal Certificate",
+        "number": "071900542011118",
+        "dateStart": "2021-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/halal.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Residue chemical free certificate from PT Maxzer",
+        "number": "LHU/20210603383/01",
+        "dateStart": "2021-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/residue-free.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Indonesia Organic from LESOS",
+        "number": "048-LSO-005-IDN-12-8",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/organic-1.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Certificate of registration of Organic fresh food of the I ndonesian ministry of agriculture",
+        "number": "37/11/01/02/VIII/2021",
+        "dateStart": "2021-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/organic-2.jpg",
+        "countryOfIssuing": "Indonesia"
+      }
+    ],
+    "images": [
+      {
+        "name": "Red Rice 1 ",
+        "URL": "sirtanio-red-rice-01.png"
+      }
+    ],
+    "availablePort": [
+      {
+        "name": "SouthHampton",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Felixstowe",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Piraeus",
+        "country": "Greece"
+      },
+      {
+        "name": "Genoa",
+        "country": "Italy"
+      }
+    ],
+    "logisticScenario": [
+      {
+        "name": "Surabaya to SouthHampton",
+        "from": "Surabaya Tanjung Perak",
+        "to": "SouthHampton, United Kingdom",
+        "baseCurrency": "USD",
+        "logisticProvider": "KING Freight Logistics Indonesia, PT",
+        "logisticPricing": [
+          {
+            "name": "20GP",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "1600"
+          },
+          {
+            "name": "40HQ",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "2300"
+          }
+        ]
+      }
+    ],
+    "availableGoods": [
+      {
+        "name": "Red Rice 1 MT",
+        "description": "",
+        "maxWeight": "1",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      },
+      {
+        "name": "Black Rice 5 MT",
+        "description": "",
+        "maxWeight": "5",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      },
+      {
+        "name": "Black Rice 10 MT",
+        "description": "",
+        "maxWeight": "10",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      },
+      {
+        "name": "Black Rice 15 MT",
+        "description": "",
+        "maxWeight": "15",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      }
+    ],
+    "countryOfOriginTaxes": [
+      {
+        "name": "VAT / PPN",
+        "country": "Indonesia",
+        "description": "Value added taxes",
+        "value": "0.12"
+      }
+    ],
+    "countryOfDestinationTaxes": [
+      {
+        "name": "VAT",
+        "country": "United Kingdom",
+        "description": "Value added taxes",
+        "value": "0.20"
+      }
+    ]
+  },
+  {
+    "id": "01020002",
+    "name": "Organic Melik Black Rice",
+    "description": "Indonesia organic Melik Black Rice rice from East Java island Banyuwangi rice plantation ",
+    "description2": "Black rice is known to be expensive because it is consumed by the royal family not even just any farmer can plant black rice melik (until in Banyuwangi until now there are still farmers who\nwant to plant black rice, fear of being hit by curse) when the\nmyth is only to protect black rice products so as not to\nConsumed by the general public Because Black Melik Rice is\nonly consumed by Kings Black rice melting planting place is\nvery hidden, now the place is called hamlet Melik ds Parijatah\npaddy quota for King\nBlack\nmelik rice has a distinctive color which in 1 grain of rice\nhas a black color that is degraded with brown In the\nproduction process, Organic Melik black rice is produced over a\nlonger period of 160 days This is what causes the black rice\nmelik is a rare and high quality organic rice products",
+    "category": "",
+    "manufacturingURL": "",
+    "tags": [
+      "food",
+      "red rice",
+      "organic food"
+    ],
+    "genericSpecification": {
+      "description": "glycemic index of 56 with folic acid content of 208 8 mcg/ 100 g",
+      "isEdible": "",
+      "moisture": "",
+      "color": [
+        "dark red",
+        "red"
+      ],
+      "taste": [
+        "sweet",
+        "normal sweet"
+      ],
+      "smell": [],
+      "form": [
+        "rice"
+      ],
+      "expired": "12 Months"
+    },
+    "certificates": [
+      {
+        "name": "Indonesia Halal Certificate",
+        "number": "071900542011118",
+        "dateStart": "2021-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/halal.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Residue chemical free certificate from PT Maxzer",
+        "number": "LHU/20210603383/01",
+        "dateStart": "2021-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/residue-free.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Indonesia Organic from LESOS",
+        "number": "048-LSO-005-IDN-12-8",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/organic-1.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Certificate of registration of Organic fresh food of the I ndonesian ministry of agriculture",
+        "number": "37/11/01/02/VIII/2021",
+        "dateStart": "2021-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/organic-2.jpg",
+        "countryOfIssuing": "Indonesia"
+      }
+    ],
+    "images": [
+      {
+        "name": "Red Rice 1 ",
+        "URL": "sirtanio-melik-black-rice-01.png"
+      }
+    ],
+    "availablePort": [
+      {
+        "name": "SouthHampton",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Felixstowe",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Piraeus",
+        "country": "Greece"
+      },
+      {
+        "name": "Genoa",
+        "country": "Italy"
+      }
+    ],
+    "logisticScenario": [
+      {
+        "name": "Surabaya to SouthHampton",
+        "from": "Surabaya Tanjung Perak",
+        "to": "SouthHampton, United Kingdom",
+        "baseCurrency": "USD",
+        "logisticProvider": "KING Freight Logistics Indonesia, PT",
+        "logisticPricing": [
+          {
+            "name": "20GP",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "1600"
+          },
+          {
+            "name": "40HQ",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "2300"
+          }
+        ]
+      }
+    ],
+    "availableGoods": [
+      {
+        "name": "Red Rice 1 MT",
+        "description": "",
+        "maxWeight": "1",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      },
+      {
+        "name": "Black Rice 5 MT",
+        "description": "",
+        "maxWeight": "5",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      },
+      {
+        "name": "Black Rice 10 MT",
+        "description": "",
+        "maxWeight": "10",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      },
+      {
+        "name": "Black Rice 15 MT",
+        "description": "",
+        "maxWeight": "15",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      }
+    ],
+    "countryOfOriginTaxes": [
+      {
+        "name": "VAT / PPN",
+        "country": "Indonesia",
+        "description": "Value added taxes",
+        "value": "0.12"
+      }
+    ],
+    "countryOfDestinationTaxes": [
+      {
+        "name": "VAT",
+        "country": "United Kingdom",
+        "description": "Value added taxes",
+        "value": "0.20"
+      }
+    ]
+  },
+  {
+    "id": "01020003",
+    "name": "Organic Brown Rice",
+    "description": "Indonesia organic Brown Rice rice from East Java island Banyuwangi rice plantation ",
+    "description2": "Brown\nrice is whole grain rice, with the inedible outer\nhull removed white rice is the same grain with the hull,\nbran layer and cereal germ removed Brown Rice From\nSirtanio produced by unique varieties namely Berlian\nThis Varieties is only plant in Banyuwangi and already\nhave a patent in order to Banyuwangi Local Varieties\nBrown Rice have the low Index Glicemic 64 so its a good\nfor people with Diabetic and high colesterol",
+    "category": "",
+    "manufacturingURL": "",
+    "tags": [
+      "food",
+      "red rice",
+      "organic food"
+    ],
+    "genericSpecification": {
+      "description": "glycemic index of 56 with folic acid content of 208 8 mcg/ 100 g",
+      "isEdible": "",
+      "moisture": "",
+      "color": [
+        "dark red",
+        "red"
+      ],
+      "taste": [
+        "sweet",
+        "normal sweet"
+      ],
+      "smell": [],
+      "form": [
+        "rice"
+      ],
+      "expired": "12 Months"
+    },
+    "certificates": [
+      {
+        "name": "Indonesia Halal Certificate",
+        "number": "071900542011118",
+        "dateStart": "2021-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/halal.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Residue chemical free certificate from PT Maxzer",
+        "number": "LHU/20210603383/01",
+        "dateStart": "2021-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/residue-free.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Indonesia Organic from LESOS",
+        "number": "048-LSO-005-IDN-12-8",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/organic-1.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Certificate of registration of Organic fresh food of the I ndonesian ministry of agriculture",
+        "number": "37/11/01/02/VIII/2021",
+        "dateStart": "2021-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/organic-2.jpg",
+        "countryOfIssuing": "Indonesia"
+      }
+    ],
+    "images": [
+      {
+        "name": "Red Rice 1 ",
+        "URL": "sirtanio-brown-rice-01.png"
+      }
+    ],
+    "availablePort": [
+      {
+        "name": "SouthHampton",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Felixstowe",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Piraeus",
+        "country": "Greece"
+      },
+      {
+        "name": "Genoa",
+        "country": "Italy"
+      }
+    ],
+    "logisticScenario": [
+      {
+        "name": "Surabaya to SouthHampton",
+        "from": "Surabaya Tanjung Perak",
+        "to": "SouthHampton, United Kingdom",
+        "baseCurrency": "USD",
+        "logisticProvider": "KING Freight Logistics Indonesia, PT",
+        "logisticPricing": [
+          {
+            "name": "20GP",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "1600"
+          },
+          {
+            "name": "40HQ",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "2300"
+          }
+        ]
+      }
+    ],
+    "availableGoods": [
+      {
+        "name": "Red Rice 1 MT",
+        "description": "",
+        "maxWeight": "1",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      },
+      {
+        "name": "Black Rice 5 MT",
+        "description": "",
+        "maxWeight": "5",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      },
+      {
+        "name": "Black Rice 10 MT",
+        "description": "",
+        "maxWeight": "10",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      },
+      {
+        "name": "Black Rice 15 MT",
+        "description": "",
+        "maxWeight": "15",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      }
+    ],
+    "countryOfOriginTaxes": [
+      {
+        "name": "VAT / PPN",
+        "country": "Indonesia",
+        "description": "Value added taxes",
+        "value": "0.12"
+      }
+    ],
+    "countryOfDestinationTaxes": [
+      {
+        "name": "VAT",
+        "country": "United Kingdom",
+        "description": "Value added taxes",
+        "value": "0.20"
+      }
+    ]
+  },
+  {
+    "id": "01020004",
+    "name": "Organic White Rice",
+    "description": "Indonesia organic White Rice rice from East Java island Banyuwangi rice plantation ",
+    "description2": "This\nrice is derived from selected varieties, planted in certain\nlocations by using special cultivation techniques and processed\nwith a high degree of accuracy, making the original rice soil\n“Earth Blambangan” has a sensation of luxurious taste, soft\ntexture and color that inspire the taste and more healthy so\nthat Safe to be a healthy family choice We do this because we\nbelieve that “Health and luxury are the flavor of every human\nbeing”\nThis\n“ white rice market target is almost identical to the\nabove white brown rice, except for the 3rd consumer type\nwhose price factor is still the main consideration",
+    "category": "",
+    "manufacturingURL": "",
+    "tags": [
+      "food",
+      "red rice",
+      "organic food"
+    ],
+    "genericSpecification": {
+      "description": "glycemic index of 56 with folic acid content of 208 8 mcg/ 100 g",
+      "isEdible": "",
+      "moisture": "",
+      "color": [
+        "dark red",
+        "red"
+      ],
+      "taste": [
+        "sweet",
+        "normal sweet"
+      ],
+      "smell": [],
+      "form": [
+        "rice"
+      ],
+      "expired": "12 Months"
+    },
+    "certificates": [
+      {
+        "name": "Indonesia Halal Certificate",
+        "number": "071900542011118",
+        "dateStart": "2021-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/halal.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Residue chemical free certificate from PT Maxzer",
+        "number": "LHU/20210603383/01",
+        "dateStart": "2021-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/residue-free.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Indonesia Organic from LESOS",
+        "number": "048-LSO-005-IDN-12-8",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/organic-1.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Certificate of registration of Organic fresh food of the I ndonesian ministry of agriculture",
+        "number": "37/11/01/02/VIII/2021",
+        "dateStart": "2021-01-01",
+        "URL": "",
+        "ImageUrl": "~/assets/product-certifications/pt-sirtanio-organik-indonesia/organic-2.jpg",
+        "countryOfIssuing": "Indonesia"
+      }
+    ],
+    "images": [
+      {
+        "name": "Red Rice 1 ",
+        "URL": "sirtanio-white-rice-01.png"
+      }
+    ],
+    "availablePort": [
+      {
+        "name": "SouthHampton",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Felixstowe",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Piraeus",
+        "country": "Greece"
+      },
+      {
+        "name": "Genoa",
+        "country": "Italy"
+      }
+    ],
+    "logisticScenario": [
+      {
+        "name": "Surabaya to SouthHampton",
+        "from": "Surabaya Tanjung Perak",
+        "to": "SouthHampton, United Kingdom",
+        "baseCurrency": "USD",
+        "logisticProvider": "KING Freight Logistics Indonesia, PT",
+        "logisticPricing": [
+          {
+            "name": "20GP",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "1600"
+          },
+          {
+            "name": "40HQ",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "2300"
+          }
+        ]
+      }
+    ],
+    "availableGoods": [
+      {
+        "name": "Red Rice 1 MT",
+        "description": "",
+        "maxWeight": "1",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      },
+      {
+        "name": "Black Rice 5 MT",
+        "description": "",
+        "maxWeight": "5",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      },
+      {
+        "name": "Black Rice 10 MT",
+        "description": "",
+        "maxWeight": "10",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      },
+      {
+        "name": "Black Rice 15 MT",
+        "description": "",
+        "maxWeight": "15",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "10000",
+        "factoryPriceUnit": "USD",
+        "checkOutURL": "",
+        "paymentURL": ""
+      }
+    ],
+    "countryOfOriginTaxes": [
+      {
+        "name": "VAT / PPN",
+        "country": "Indonesia",
+        "description": "Value added taxes",
+        "value": "0.12"
+      }
+    ],
+    "countryOfDestinationTaxes": [
+      {
+        "name": "VAT",
+        "country": "United Kingdom",
+        "description": "Value added taxes",
+        "value": "0.20"
+      }
+    ]
+  }
+]
+
