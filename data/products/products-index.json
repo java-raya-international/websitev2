@@ -29,8 +29,8 @@
         "id": "01",
         "subcategory": "green-craft",
         "title": "Green Craft",
-        "relativeURL": "/products/materials/bronze-copper",
-        "data": "~/data/products/materials/product-bronze-copper.json"
+        "relativeURL": "/products/craft/green-craft",
+        "data": "~/data/products/craft/product-green-craft.json"
       }
 
     ]
