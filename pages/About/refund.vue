@@ -7,7 +7,7 @@
     <LayoutTopHeader/>
     <LayoutMiddleHeader/>
     <LayoutNavbarDesktop/>
-
+    <NoRefund/>
 
     <LayoutFooter/>
   </div>
