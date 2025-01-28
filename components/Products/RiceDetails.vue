@@ -9,7 +9,7 @@ const tab = ref(null);
 const selectedPricingToggleButton = ref(null);
 
 const visibleGoods = computed(() => {
-  return filteredProduct.value?.availableGoods?.filter(good => good.visible) || [];
+  return filteredProduct.value?.availableGoods?.filter(good => good.visible === "true") || [];
 });
 
 const filterById = () => {
@@ -82,11 +82,11 @@ const navigateTo = (path) => {
                 <v-row>
                   <v-col cols="12">
                     <v-btn-toggle v-model="selectedPricingToggleButton" divided
-                                  v-for="good in filteredProduct?.availableGoods"
+                                  v-for="good in visibleGoods"
                                   :key="good.id"
                                   class="d-flex" density="compact">
                       <v-btn
-                          
+
 
                           @click="navigateTo(good.paymentStripeURL)"
 
