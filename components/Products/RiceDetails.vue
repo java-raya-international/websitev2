@@ -8,6 +8,10 @@ const filteredProduct = ref(null);
 const tab = ref(null);
 const selectedPricingToggleButton = ref(null);
 
+const visibleGoods = computed(() => {
+  return filteredProduct.value?.availableGoods?.filter(good => good.visible) || [];
+});
+
 const filterById = () => {
   const route = useRoute()
   filteredProduct.value = productRice.value.find(product => product.id === route.params.id);
@@ -82,8 +86,8 @@ const navigateTo = (path) => {
                                   :key="good.id"
                                   class="d-flex" density="compact">
                       <v-btn
+                          
 
-                          v-if="good.visible"
                           @click="navigateTo(good.paymentStripeURL)"
 
                       >

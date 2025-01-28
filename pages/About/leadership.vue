@@ -7,7 +7,8 @@
     <LayoutTopHeader/>
     <LayoutMiddleHeader/>
     <LayoutNavbarDesktop/>
-
+    <LeadershipMissionVision/>
+    <LeadershipTeam/>
 
     <LayoutFooter/>
   </div>

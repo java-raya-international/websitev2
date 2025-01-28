@@ -7,7 +7,7 @@
     <LayoutTopHeader/>
     <LayoutMiddleHeader/>
     <LayoutNavbarDesktop/>
-
+    <AboutUs/>
 
     <LayoutFooter/>
   </div>

@@ -7,10 +7,10 @@ export const useGlobalCompanyAssets = defineStore('globalCompanyAssetStore', {
         // ... other global variables
     }),
     actions: {
-        setUser(allCompanyAssetStore) {
+        setCompanyAssetStore(allCompanyAssetStore) {
             this.allCompanyAssetStore = allCompanyAssetStore;
         },
-        setTheme(allCompanyAssetStoreLoaded) {
+        setCompanyAssetStoreLoaded(allCompanyAssetStoreLoaded) {
             this.allCompanyAssetStoreLoaded = allCompanyAssetStoreLoaded;
         },
         // ... other actions to modify global state

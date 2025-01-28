@@ -7,7 +7,7 @@
     <LayoutTopHeader/>
     <LayoutMiddleHeader/>
     <LayoutNavbarDesktop/>
-
+    <PrivacyPolicy/>
 
     <LayoutFooter/>
   </div>

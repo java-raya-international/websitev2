@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Nicko Satria Utama",
+    "title": "CEO and Co-Founder",
+    "photo": "nicko-headshot.png",
+    "description": "Nicko is the CEO and co-founder of Boksem Technologies. He has 20 years of experience in software development and delivery across different industries. He has successfully led complex IT projects around the world, focusing on Microsoft technologies, cloud solutions like Azure, AWS, and GCP, and enterprise integrations. Recently, he has been exploring the potential of blockchain, Web 3.0, and artificial intelligence (AI).",
+    "linkedin": "https://www.linkedin.com/in/nickotech2000/"
+  },
+  {
+    "name": "Airlangga Bhumintara Amitaba",
+    "title": "COO and Co-Founder",
+    "photo": "airlangga-headshot.jpg",
+    "description": "I have quite much experience in profesional fields. Starts form programmer, pre-sales and finally Business Manager.In the future I would like to take career abroad, and after that I might back home and teaching for university",
+    "linkedin": "https://www.linkedin.com/in/airlanggaamitaba/"
+  },
+  {
+    "name": "Berlian Ahyono",
+    "title": "Procurement and Sourcing Master",
+    "photo": "berlian-indoor.jpg",
+    "description": "Networking | Digital Transaction | Fintech | Financial Services | ePayment Solution",
+    "linkedin": "https://www.linkedin.com/in/berlian-ahyono-86617022b/"
+
+  }
+]

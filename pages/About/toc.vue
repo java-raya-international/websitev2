@@ -7,7 +7,7 @@
     <LayoutTopHeader/>
     <LayoutMiddleHeader/>
     <LayoutNavbarDesktop/>
-
+    <TermsConditions/>
 
     <LayoutFooter/>
   </div>
