@@ -3444,7 +3444,7 @@ Product Details Area CSS
   background-color: var(--warning);
 }
 
-.description-conetnt h4 {
+.description-content h4 {
   font-size: 16px;
   margin-bottom: 10px;
   color: var(--bodyColor);

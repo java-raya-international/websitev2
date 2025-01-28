@@ -13,7 +13,7 @@
     <v-card-text>
       <v-tabs-window v-model="tab">
         <v-tabs-window-item value="description">
-          <div class="description-conetnt">
+          <div class="description-content">
             <p class="mb-3">
               The Apple MacBook Pro 16.2 is a cutting-edge laptop designed to
               deliver exceptional performance and advanced features for

@@ -28,7 +28,7 @@ function getCompanyAssetStore(fileName) {
     <div class="container">
       <v-container>
         <v-row>
-          <v-col cols="12" md="4" v-for="(product, index) in productRiceOrganicJson" :key="index">
+          <v-col cols="12" md="4" v-for="(product, index) in riceOrganicProducts" :key="index">
             <v-card class="mx-auto" max-width="320">
               <div class="pa-4">
                 <v-img :src="getCompanyAssetStore(product.images[0].URL)" max-height="200" :alt="product.name"
@@ -48,9 +48,9 @@ function getCompanyAssetStore(fileName) {
                 <v-btn :to="`/products/foods/details/rice-${product.id}`" color="primary" class="right">
                   Learn More
                 </v-btn>
-                <v-btn :to="`/products/foods/buy/rice-${product.id}`" color="primary" class="right">
-                  Buy
-                </v-btn>
+<!--                <v-btn :to="`/products/foods/buy/rice-${product.id}`" color="primary" class="right">-->
+<!--                  Buy-->
+<!--                </v-btn>-->
               </v-card-actions>
             </v-card>
           </v-col>
