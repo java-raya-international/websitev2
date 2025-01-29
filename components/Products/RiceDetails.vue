@@ -156,24 +156,16 @@ const navigateTo = (path) => {
                 <span>Share:</span>
               </li>
               <li class="d-flex align-items-center gap-2">
-                <a href="https://facebook.com/" target="_blank">
-                  <i class="ri-facebook-fill"></i>
-                </a>
+                <SocialShare network="facebook" :styled="true" :label="false" class="ri-facebook-fill"/>
               </li>
               <li class="d-flex align-items-center gap-2">
-                <a href="https://twitter.com/" target="_blank">
-                  <i class="ri-twitter-x-line"></i>
-                </a>
+                <SocialShare network="x" :styled="true" :label="false" class="ri-twitter-x-line"/>
               </li>
               <li class="d-flex align-items-center gap-2">
-                <a href="https://linkedin.com/" target="_blank">
-                  <i class="ri-linkedin-fill"></i>
-                </a>
+                <SocialShare network="linkedin" :styled="true" :label="false" class="ri-linkedin-fill"/>
               </li>
               <li class="d-flex align-items-center gap-2">
-                <a href="https://whatsapp.com/" target="_blank">
-                  <i class="ri-whatsapp-line"></i>
-                </a>
+                <SocialShare network="whatsapp" :styled="true" :label="false" class="ri-whatsapp-line"/>
               </li>
             </ul>
           </div>

@@ -17,6 +17,7 @@
     "@mdi/js": "^7.4.47",
     "@nuxt/content": "^3.0.0",
     "@nuxt/icon": "1.10.3",
+    "@stefanobartoletti/nuxt-social-share": "^1.2.1",
     "@tanstack/vue-query": "^5.64.2",
     "algoliasearch": "^5.19.0",
     "axios": "^1.7.9",
