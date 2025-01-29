@@ -1,6 +1,6 @@
-<script setup>
+<script setup lang="ts">
 
-import CoconutList from "~/components/Products/CoconutList.vue";
+import CoconutDetails from "~/components/Products/CoconutDetails.vue";
 </script>
 
 <template>
@@ -8,7 +8,7 @@ import CoconutList from "~/components/Products/CoconutList.vue";
     <LayoutTopHeader/>
     <LayoutMiddleHeader/>
     <LayoutNavbarDesktop/>
-    <CoconutList/>
+    <ProductsCoconutDetails/>
 
     <LayoutFooter/>
   </div>

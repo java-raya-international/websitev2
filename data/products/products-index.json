@@ -9,7 +9,7 @@
         "subcategory": "product-coconut",
         "title": "Coconut",
         "relativeURL": "/products/foods/coconut",
-        "data": "~/data/products/foods/product-coconut-sugar.json"
+        "data": "~/data/products/foods/product-coconut.json"
       },
       {
         "id": "02",

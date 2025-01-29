@@ -1,8 +1,12 @@
 [
   {
+    "id": "01010001",
     "name": "Coconut Sugar",
     "description": "Indonesia Coconut Sugar sugar is one of the legacies of the ancestors of the Indonesian people, especially the people on the island of Java. The unique taste of Indonesian coconut sugar can only be obtained from experienced traditonal coconut sugar craftsmen, namely traditonal coconut sap farmers. They are coconut sugar experts and have produced quality coconut sugar for the whole world.",
-    "category": "",
+    "description2": "The\norganic red rice produced by sirtanio comes from\nspecial seeds from the village of Segobang Banyuwangi,\nIndonesia Sirtanio's organic rice seeds are certified and\ncan\nonly be planted in Banyuwangi Rice that has been\ncooked from sirtanio rice has a distinctive texture,\nfragrant, soft and of course certified organic",
+    "sku": "FD00000001",
+    "brand": "sirtanio",
+    "category": "Foods",
     "manufacturingURL": "",
     "tags": [
       "food",
@@ -29,33 +33,41 @@
     "certificates": [
       {
         "name": "Indonesia Halal Certificate",
+        "description": "Indonesia halal certificate",
         "number": "38748732487324",
         "dateStart": "2025-01-01",
         "URL": "",
+        "logoUrl": "indo-halal.png",
         "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/halal.jpg",
         "countryOfIssuing": "Indonesia"
       },
       {
         "name": "Indonesia BPOM",
+        "description": "Indonesia food safety",
         "number": "38748732487324",
         "dateStart": "2025-01-01",
         "URL": "",
+        "logoUrl": "indo-bpom.png",
         "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/bpom.jpg",
         "countryOfIssuing": "Indonesia"
       },
       {
         "name": "Kosher certificate",
+        "description": "a stamp of approval from a rabbinic agency that verifies a product meets kosher law",
         "number": "38748732487324",
         "dateStart": "2025-01-01",
         "url": "",
+        "logoUrl": "kosher.png",
         "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/kosher.jpg",
         "countryOfIssuing": "USA"
       },
       {
         "name": "HACCP",
+        "description": "s a document issued by a third-party auditor that verifies a food business is following recognized food safety standards by identifying and controlling potential hazards throughout the food production process, demonstrating their commitment to producing safe food products; essentially",
         "number": "38748732487324",
         "dateStart": "2025-01-01",
         "url": "",
+        "logoUrl": "haccp.png",
         "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/haccp.jpg",
         "countryOfIssuing": "Indonesia"
       }
@@ -63,15 +75,7 @@
     "images": [
       {
         "name": "Coconut Sugar ",
-        "URL": "~/products/cv-bonafide-anugerah-sentosa/coconut-sugar-01.png"
-      },
-      {
-        "name": "Coconut Sugar 2 ",
-        "URL": "~/products/cv-bonafide-anugerah-sentosa/coconut-sugar-02.png"
-      },
-      {
-        "name": "Coconut Sugar 3 ",
-        "URL": "~/products/cv-bonafide-anugerah-sentosa/coconut-sugar-02.png"
+        "URL": "bonafide-coconut-sugar.png"
       }
     ],
     "availablePort": [
@@ -117,34 +121,38 @@
     ],
     "availableGoods": [
       {
-        "name": "Coconut Sugar 1 MT",
-        "description": "",
-        "maxWeight": "1",
+        "id": "1",
+        "name": "Coconut Sugar 0.000 MT {1}",
+        "enabled": "true",
+        "visible": "true",
+        "description": "Coconut Sugar 0 MT for Testing",
+        "maxWeight": "0",
         "maxWeightUnit": "Metric Tons",
-        "factoryPrice": "10000",
-        "factoryPriceUnit": "USD",
+        "factoryPrice": "2",
+        "factoryPriceUnit": "GBP",
+        "totalPrice": "2",
+        "totalPriceUnit": "GBP",
         "checkOutURL": "",
-        "paymentURL": ""
+        "paymentStripeURL": "https://buy.stripe.com/bIY6oP7kn7jd1EI148",
+        "paymentPaypalURL": "",
+        "paymentCryptoURL": ""
       },
       {
-        "name": "Coconut Sugar 5 MT",
-        "description": "",
-        "maxWeight": "1",
+        "id": "2",
+        "name": "Coconut Sugar 0.000 MT {2}",
+        "enabled": "true",
+        "visible": "false",
+        "description": "Coconut Sugar 0 MT for Testing",
+        "maxWeight": "0",
         "maxWeightUnit": "Metric Tons",
-        "factoryPrice": "10000",
-        "factoryPriceUnit": "USD",
+        "factoryPrice": "2",
+        "factoryPriceUnit": "GBP",
+        "totalPrice": "2",
+        "totalPriceUnit": "GBP",
         "checkOutURL": "",
-        "paymentURL": ""
-      },
-      {
-        "name": "Coconut Sugar 10 MT",
-        "description": "",
-        "maxWeight": "1",
-        "maxWeightUnit": "Metric Tons",
-        "factoryPrice": "10000",
-        "factoryPriceUnit": "USD",
-        "checkOutURL": "",
-        "paymentURL": ""
+        "paymentStripeURL": "https://buy.stripe.com/9AQeVl48bavp2IM003",
+        "paymentPaypalURL": "",
+        "paymentCryptoURL": ""
       }
     ],
     "countryOfOriginTaxes": [
