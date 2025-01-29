@@ -36,29 +36,30 @@ export default defineNuxtConfig({
         serverBundle: false,
     },
 
+
     modules: [
-        (
-            _options: any,
-            nuxt: {
-                hooks: {
-                    hook: (
-                        arg0: string,
-                        arg1: (config: { plugins: Plugin<any>[][] }) => void
-                    ) => void;
-                };
-            }
-        ) => {
-            nuxt.hooks.hook(
-                "vite:extendConfig",
-                (config: { plugins: Plugin<any>[][] }) => {
-                    config.plugins.push(vuetify({autoImport: true}));
+        function (options, nuxt) { // Correct module function signature
+            nuxt.hooks.hook('vite:extendConfig', (config) => {
+                const vuetifyPlugin = vuetify({autoImport: true});
+
+                if (!config.plugins) {
+                    config.plugins = [];
                 }
-            );
+
+                config.plugins.push(vuetifyPlugin);
+            });
         },
         "nuxt-swiper",
         "nuxt-calendly",
         "@nuxt/icon",
+        "@stefanobartoletti/nuxt-social-share"
     ],
+
+
+    socialShare: {
+        baseUrl: 'https://javaraya.co.uk'
+    },
+
 
     vite: {
         vue: {
@@ -69,7 +70,7 @@ export default defineNuxtConfig({
         css: {
             preprocessorOptions: {
                 scss: {
-                    sourceMap: true,
+                    ...({sourceMap: true} as any)
                 },
             },
         },
@@ -79,5 +80,5 @@ export default defineNuxtConfig({
     },
     compatibilityDate: "2025-01-13",
     components: true,
-    
+
 });
