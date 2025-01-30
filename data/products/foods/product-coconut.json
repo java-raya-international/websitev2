@@ -2,10 +2,10 @@
   {
     "id": "01010001",
     "name": "Coconut Sugar",
-    "description": "Indonesia Coconut Sugar sugar is one of the legacies of the ancestors of the Indonesian people, especially the people on the island of Java. The unique taste of Indonesian coconut sugar can only be obtained from experienced traditonal coconut sugar craftsmen, namely traditonal coconut sap farmers. They are coconut sugar experts and have produced quality coconut sugar for the whole world.",
-    "description2": "The\norganic red rice produced by sirtanio comes from\nspecial seeds from the village of Segobang Banyuwangi,\nIndonesia Sirtanio's organic rice seeds are certified and\ncan\nonly be planted in Banyuwangi Rice that has been\ncooked from sirtanio rice has a distinctive texture,\nfragrant, soft and of course certified organic",
+    "description": "Indonesia Coconut Sugar sugar is one of the legacies of the ancestors of the Indonesian people",
+    "description2": "This natural\nsweetener has a delicious coconut aroma and delicious taste has a sweetener for food and drinks. In general, granulated coconut sugar has a brown to dark brown color, this color is the natural color result",
     "sku": "FD00000001",
-    "brand": "sirtanio",
+    "brand": "bas",
     "category": "Foods",
     "manufacturingURL": "",
     "tags": [
@@ -15,7 +15,7 @@
     ],
     "genericSpecification": {
       "isEdible": "true",
-      "moisture": "0.02",
+      "moisture": "Max 2%",
       "color": [
         "brown",
         "light brown"
@@ -26,7 +26,7 @@
       ],
       "smell": [],
       "form": [
-        "Granulated Mesh 16 - 18"
+        "Granulated Mesh 16-18"
       ],
       "expired": "16-18 Months"
     },
@@ -132,10 +132,145 @@
         "paymentStripeURL": "https://buy.stripe.com/bIY6oP7kn7jd1EI148",
         "paymentPaypalURL": "",
         "paymentCryptoURL": ""
+      }
+    ],
+    "countryOfOriginTaxes": [
+      {
+        "name": "VAT / PPN",
+        "country": "Indonesia",
+        "description": "Value added taxes",
+        "value": "0.12"
+      }
+    ],
+    "countryOfDestinationTaxes": [
+      {
+        "name": "VAT",
+        "country": "United Kingdom",
+        "description": "Value added taxes",
+        "value": "0.20"
+      }
+    ]
+  },
+  {
+    "id": "01010002",
+    "name": "Coconut Nectar Syrup",
+    "description": "This liquid coconut sugar has a soft and thick liquid texture with a delicious coconut aroma. ",
+    "description2": "Coconut nectar syrup is the result of processing coconut sap which is cooked without undergoing a maximum dehydration",
+    "sku": "FD00000002",
+    "brand": "bas",
+    "category": "Foods",
+    "manufacturingURL": "",
+    "tags": [
+      "food",
+      "sugar",
+      "organic food"
+    ],
+    "genericSpecification": {
+      "isEdible": "true",
+      "moisture": "<30",
+      "color": [
+        "brown",
+        "light brown"
+      ],
+      "taste": [
+        "sweet",
+        "normal sweet"
+      ],
+      "smell": [],
+      "form": [
+        "Liquid"
+      ],
+      "expired": "16-18 Months"
+    },
+    "certificates": [
+      {
+        "name": "Indonesia Halal Certificate",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "logoUrl": "indo-halal.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/halal.jpg",
+        "countryOfIssuing": "Indonesia"
       },
       {
-        "id": "2",
-        "name": "Coconut Sugar 0.000 MT {2}",
+        "name": "Indonesia BPOM",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "logoUrl": "indo-bpom.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/bpom.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Kosher certificate",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "url": "",
+        "logoUrl": "kosher.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/kosher.jpg",
+        "countryOfIssuing": "USA"
+      },
+      {
+        "name": "HACCP",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "url": "",
+        "logoUrl": "haccp.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/haccp.jpg",
+        "countryOfIssuing": "Indonesia"
+      }
+    ],
+    "images": [
+      {
+        "name": "Coconut Nectar Syrup ",
+        "URL": "bonafide-coconut-nectar.png"
+      }
+    ],
+    "availablePort": [
+      {
+        "name": "SouthHampton",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Felixstowe",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Piraeus",
+        "country": "Greece"
+      },
+      {
+        "name": "Genoa",
+        "country": "Italy"
+      }
+    ],
+    "logisticScenario": [
+      {
+        "name": "Surabaya to SouthHampton",
+        "from": "Surabaya Tanjung Perak",
+        "to": "SouthHampton, United Kingdom",
+        "baseCurrency": "USD",
+        "logisticProvider": "KING Freight Logistics Indonesia, PT",
+        "logisticPricing": [
+          {
+            "name": "20GP",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "1600"
+          },
+          {
+            "name": "40HQ",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "2300"
+          }
+        ]
+      }
+    ],
+    "availableGoods": [
+      {
+        "id": "1",
+        "name": "Coconut Sugar 0.000 MT {1}",
         "enabled": "true",
         "visible": "false",
         "description": "Coconut Sugar 0 MT for Testing",
@@ -146,7 +281,312 @@
         "totalPrice": "2",
         "totalPriceUnit": "GBP",
         "checkOutURL": "",
-        "paymentStripeURL": "https://buy.stripe.com/9AQeVl48bavp2IM003",
+        "paymentStripeURL": "https://buy.stripe.com/bIY6oP7kn7jd1EI148",
+        "paymentPaypalURL": "",
+        "paymentCryptoURL": ""
+      }
+    ],
+    "countryOfOriginTaxes": [
+      {
+        "name": "VAT / PPN",
+        "country": "Indonesia",
+        "description": "Value added taxes",
+        "value": "0.12"
+      }
+    ],
+    "countryOfDestinationTaxes": [
+      {
+        "name": "VAT",
+        "country": "United Kingdom",
+        "description": "Value added taxes",
+        "value": "0.20"
+      }
+    ]
+  },
+  {
+    "id": "01010003",
+    "name": "Mould Coconut Sugar",
+    "description": "Liquid coconut sugar that is solidified in a certain water content",
+    "description2": "Before it becomes molded coconut sugar, the coconut ﬂower essence (neera) is cooked un l it becomes a thick sugar syrup and then poured into the mold. This molded coconut sugar is in the form of a tube from a mold made from dry bamboo s cks. Even though it is solid, coconut sugar does not harden. Molded coconut sugar is the best sweetener as a raw material for sweet soy sauce, coconut syrup, and salad sauce because it melts easily and thickens when heated.",
+    "sku": "FD00000003",
+    "brand": "bas",
+    "category": "Foods",
+    "manufacturingURL": "",
+    "tags": [
+      "food",
+      "sugar",
+      "organic food"
+    ],
+    "genericSpecification": {
+      "isEdible": "true",
+      "moisture": "Max5%",
+      "color": [
+        "brown",
+        "light brown"
+      ],
+      "taste": [
+        "sweet",
+        "normal sweet"
+      ],
+      "smell": [],
+      "form": [
+        "Solid"
+      ],
+      "expired": "16-18 Months"
+    },
+    "certificates": [
+      {
+        "name": "Indonesia Halal Certificate",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "logoUrl": "indo-halal.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/halal.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Indonesia BPOM",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "logoUrl": "indo-bpom.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/bpom.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Kosher certificate",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "url": "",
+        "logoUrl": "kosher.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/kosher.jpg",
+        "countryOfIssuing": "USA"
+      },
+      {
+        "name": "HACCP",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "url": "",
+        "logoUrl": "haccp.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/haccp.jpg",
+        "countryOfIssuing": "Indonesia"
+      }
+    ],
+    "images": [
+      {
+        "name": "Mould Coconut Sugar ",
+        "URL": "bonafide-mould-coconut-sugar.png"
+      }
+    ],
+    "availablePort": [
+      {
+        "name": "SouthHampton",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Felixstowe",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Piraeus",
+        "country": "Greece"
+      },
+      {
+        "name": "Genoa",
+        "country": "Italy"
+      }
+    ],
+    "logisticScenario": [
+      {
+        "name": "Surabaya to SouthHampton",
+        "from": "Surabaya Tanjung Perak",
+        "to": "SouthHampton, United Kingdom",
+        "baseCurrency": "USD",
+        "logisticProvider": "KING Freight Logistics Indonesia, PT",
+        "logisticPricing": [
+          {
+            "name": "20GP",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "1600"
+          },
+          {
+            "name": "40HQ",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "2300"
+          }
+        ]
+      }
+    ],
+    "availableGoods": [
+      {
+        "id": "1",
+        "name": "Coconut Sugar 0.000 MT {1}",
+        "enabled": "true",
+        "visible": "false",
+        "description": "Coconut Sugar 0 MT for Testing",
+        "maxWeight": "0",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "2",
+        "factoryPriceUnit": "GBP",
+        "totalPrice": "2",
+        "totalPriceUnit": "GBP",
+        "checkOutURL": "",
+        "paymentStripeURL": "https://buy.stripe.com/bIY6oP7kn7jd1EI148",
+        "paymentPaypalURL": "",
+        "paymentCryptoURL": ""
+      }
+    ],
+    "countryOfOriginTaxes": [
+      {
+        "name": "VAT / PPN",
+        "country": "Indonesia",
+        "description": "Value added taxes",
+        "value": "0.12"
+      }
+    ],
+    "countryOfDestinationTaxes": [
+      {
+        "name": "VAT",
+        "country": "United Kingdom",
+        "description": "Value added taxes",
+        "value": "0.20"
+      }
+    ]
+  },
+  {
+    "id": "01010004",
+    "name": "Virgin Coconut Oil",
+    "description": "VCO is pure coconut oil produced from\nfresh coconut meat.",
+    "description2": "This pure coconut oil is processed using the cold-pressed method to produce clear coconut oil.This pure coconut oil extrac on comes from fresh coconut milk without cooking so it does not produce high levels of fat. Even without cooking or a reﬁning process, VCO does not have a strong coconut aroma but tends to be odorless. VCO can be consumed directly without having to cook it, so VCO is included in the edible oil category.",
+    "sku": "FD00000003",
+    "brand": "bas",
+    "category": "Foods",
+    "manufacturingURL": "",
+    "tags": [
+      "food",
+      "ediable oil",
+      "organic food"
+    ],
+    "genericSpecification": {
+      "isEdible": "true",
+      "moisture": "0.025%",
+      "color": [
+        "0.1 Red;",
+        "0.8 Yellow",
+        "Blue"
+      ],
+      "taste": [
+      ],
+      "smell": [
+        "normal"
+      ],
+      "form": [
+        "Liquid"
+      ],
+      "expired": "24 Months"
+    },
+    "certificates": [
+      {
+        "name": "Indonesia Halal Certificate",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "logoUrl": "indo-halal.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/halal.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Indonesia BPOM",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "logoUrl": "indo-bpom.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/bpom.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Kosher certificate",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "url": "",
+        "logoUrl": "kosher.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/kosher.jpg",
+        "countryOfIssuing": "USA"
+      },
+      {
+        "name": "HACCP",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "url": "",
+        "logoUrl": "haccp.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/haccp.jpg",
+        "countryOfIssuing": "Indonesia"
+      }
+    ],
+    "images": [
+      {
+        "name": "VCO ",
+        "URL": "bonafide-virgin-coconut-oil.png"
+      }
+    ],
+    "availablePort": [
+      {
+        "name": "SouthHampton",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Felixstowe",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Piraeus",
+        "country": "Greece"
+      },
+      {
+        "name": "Genoa",
+        "country": "Italy"
+      }
+    ],
+    "logisticScenario": [
+      {
+        "name": "Surabaya to SouthHampton",
+        "from": "Surabaya Tanjung Perak",
+        "to": "SouthHampton, United Kingdom",
+        "baseCurrency": "USD",
+        "logisticProvider": "KING Freight Logistics Indonesia, PT",
+        "logisticPricing": [
+          {
+            "name": "20GP",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "1600"
+          },
+          {
+            "name": "40HQ",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "2300"
+          }
+        ]
+      }
+    ],
+    "availableGoods": [
+      {
+        "id": "1",
+        "name": "Coconut Sugar 0.000 MT {1}",
+        "enabled": "true",
+        "visible": "false",
+        "description": "Coconut Sugar 0 MT for Testing",
+        "maxWeight": "0",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "2",
+        "factoryPriceUnit": "GBP",
+        "totalPrice": "2",
+        "totalPriceUnit": "GBP",
+        "checkOutURL": "",
+        "paymentStripeURL": "https://buy.stripe.com/bIY6oP7kn7jd1EI148",
         "paymentPaypalURL": "",
         "paymentCryptoURL": ""
       }
@@ -168,4 +608,5 @@
       }
     ]
   }
+
 ]

@@ -76,7 +76,7 @@ const navigateTo = (path) => {
               <!--                <span>(5 Reviews)</span>-->
             </div>
             <h2 class="price">Price and Buy</h2>
-            <div v-if="filteredProduct?.availableGoods?.length >0">
+            <div v-if="visibleGoods?.length >0">
               <v-container fluid>
 
                 <v-row>

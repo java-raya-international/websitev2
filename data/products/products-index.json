@@ -63,6 +63,15 @@
         "data": "~/data/products/materials/steel.json",
         "visible": "true",
         "enable": "false"
+      },
+      {
+        "id": "03",
+        "subcategory": "oil-coconut-oil-derivative",
+        "title": "Oil, Coconut and Derivative",
+        "relativeURL": "/products/materials/oil-coconut-derivative",
+        "data": "~/data/products/materials/oil-coconut-derivative.json",
+        "visible": "true",
+        "enable": "false"
       }
     ]
   }
