@@ -41,13 +41,13 @@
                   <p class="mb-6">
                     {{ banner.shortDesc }}
                   </p>
-                  <NuxtLink
-                    :to="banner.btnLink"
-                    class="btn btn-success rounded-pill text-white"
-                  >
-                    <span>{{ banner.btnText }}</span>
-                    <i class="ri-arrow-right-up-line ms-1 fs-15"></i>
-                  </NuxtLink>
+<!--                  <NuxtLink-->
+<!--                    :to="banner.btnLink"-->
+<!--                    class="btn btn-success rounded-pill text-white"-->
+<!--                  >-->
+<!--                    <span>{{ banner.btnText }}</span>-->
+<!--                    <i class="ri-arrow-right-up-line ms-1 fs-15"></i>-->
+<!--                  </NuxtLink>-->
                 </div>
               </v-col>
               <v-col cols="12" lg="6" md="6">
@@ -104,7 +104,7 @@ export default defineComponent({
           heading: "Your Gateway to Authentic Indonesian Products",
           shortDesc: "Experience the richness of Indonesia with our curated selection of high-quality B2B products.",
           btnText: "Shop Now",
-          btnLink: "/products",
+          btnLink: "/",
         },
         {
           id: 2,
@@ -113,7 +113,7 @@ export default defineComponent({
           heading: "Your Gateway to Global Trade",
           shortDesc: "Experience the richness of Indonesia with our curated selection of high-quality B2B products.",
           btnText: "Shop Now",
-          btnLink: "/products",
+          btnLink: "/",
         },
 
       ],
