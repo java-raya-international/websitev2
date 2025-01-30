@@ -460,7 +460,7 @@
     "name": "Virgin Coconut Oil",
     "description": "VCO is pure coconut oil produced from\nfresh coconut meat.",
     "description2": "This pure coconut oil is processed using the cold-pressed method to produce clear coconut oil.This pure coconut oil extrac on comes from fresh coconut milk without cooking so it does not produce high levels of fat. Even without cooking or a reﬁning process, VCO does not have a strong coconut aroma but tends to be odorless. VCO can be consumed directly without having to cook it, so VCO is included in the edible oil category.",
-    "sku": "FD00000003",
+    "sku": "FD00000004",
     "brand": "bas",
     "category": "Foods",
     "manufacturingURL": "",
@@ -607,6 +607,313 @@
         "value": "0.20"
       }
     ]
+  },
+  {
+    "id": "01010005",
+    "name": "Arenga Palm Sugar",
+    "description": "Arenga palm sugar is a natural sweetener made from the ﬂower essence of palm trees commonly called palm sap",
+    "description2": "This natural sweetener has a granular shape and a caramel-sweet taste that is stronger than coconut sugar, as well as a slightly smoky aroma from its processing. The color of palm sugar is brownish red compared to coconut sugar which is yellowish brown. Arenga palm sugar is the right sweetener as a raw material for making palm syrup, coﬀee sachet sweetener, chocolate, and boba milk tea sweetener",
+    "sku": "FD00000005",
+    "brand": "bas",
+    "category": "Foods",
+    "manufacturingURL": "",
+    "tags": [
+      "food",
+      "sugar",
+      "organic food"
+    ],
+    "genericSpecification": {
+      "isEdible": "true",
+      "moisture": "0.025%",
+      "color": [
+        "red",
+        "brown"
+      ],
+      "taste": [
+        "sweet",
+        "normal sweet"
+      ],
+      "smell": [
+        "normal"
+      ],
+      "form": [
+        "Granulated Mesh 16-18"
+      ],
+      "expired": "16 Months"
+    },
+    "certificates": [
+      {
+        "name": "Indonesia Halal Certificate",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "logoUrl": "indo-halal.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/halal.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Indonesia BPOM",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "logoUrl": "indo-bpom.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/bpom.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Kosher certificate",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "url": "",
+        "logoUrl": "kosher.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/kosher.jpg",
+        "countryOfIssuing": "USA"
+      },
+      {
+        "name": "HACCP",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "url": "",
+        "logoUrl": "haccp.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/haccp.jpg",
+        "countryOfIssuing": "Indonesia"
+      }
+    ],
+    "images": [
+      {
+        "name": "Arenga Palm Sugar  ",
+        "URL": "bonafide-arenga-palm-sugar.png"
+      }
+    ],
+    "availablePort": [
+      {
+        "name": "SouthHampton",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Felixstowe",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Piraeus",
+        "country": "Greece"
+      },
+      {
+        "name": "Genoa",
+        "country": "Italy"
+      }
+    ],
+    "logisticScenario": [
+      {
+        "name": "Surabaya to SouthHampton",
+        "from": "Surabaya Tanjung Perak",
+        "to": "SouthHampton, United Kingdom",
+        "baseCurrency": "USD",
+        "logisticProvider": "KING Freight Logistics Indonesia, PT",
+        "logisticPricing": [
+          {
+            "name": "20GP",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "1600"
+          },
+          {
+            "name": "40HQ",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "2300"
+          }
+        ]
+      }
+    ],
+    "availableGoods": [
+      {
+        "id": "1",
+        "name": "Coconut Sugar 0.000 MT {1}",
+        "enabled": "true",
+        "visible": "false",
+        "description": "Coconut Sugar 0 MT for Testing",
+        "maxWeight": "0",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "2",
+        "factoryPriceUnit": "GBP",
+        "totalPrice": "2",
+        "totalPriceUnit": "GBP",
+        "checkOutURL": "",
+        "paymentStripeURL": "https://buy.stripe.com/bIY6oP7kn7jd1EI148",
+        "paymentPaypalURL": "",
+        "paymentCryptoURL": ""
+      }
+    ],
+    "countryOfOriginTaxes": [
+      {
+        "name": "VAT / PPN",
+        "country": "Indonesia",
+        "description": "Value added taxes",
+        "value": "0.12"
+      }
+    ],
+    "countryOfDestinationTaxes": [
+      {
+        "name": "VAT",
+        "country": "United Kingdom",
+        "description": "Value added taxes",
+        "value": "0.20"
+      }
+    ]
+  },
+  {
+    "id": "01010006",
+    "name": "Dessicated Coconut",
+    "description": "Desiccated Coconut is a coconut product made from dried coconut meat",
+    "description2": "This natural sweetener has a granular shape and a caramel-sweet taste that is stronger than coconut sugar, as well as a slightly smoky aroma from its processing. The color of palm sugar is brownish red compared to coconut sugar which is yellowish brown. Arenga palm sugar is the right sweetener as a raw material for making palm syrup, coﬀee sachet sweetener, chocolate, and boba milk tea sweetener",
+    "sku": "FD00000006",
+    "brand": "bas",
+    "category": "Foods",
+    "manufacturingURL": "",
+    "tags": [
+      "food",
+      "sugar",
+      "organic food"
+    ],
+    "genericSpecification": {
+      "isEdible": "true",
+      "moisture": "0.03%",
+      "color": [
+        "White",
+        "Natural White"
+      ],
+      "taste": [
+        "sweet",
+        "coconut sweet"
+      ],
+      "smell": [
+        "normal"
+      ],
+      "form": [
+        "Granulated Special Cut"
+      ],
+      "expired": "16 Months"
+    },
+    "certificates": [
+      {
+        "name": "Indonesia Halal Certificate",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "logoUrl": "indo-halal.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/halal.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Indonesia BPOM",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "URL": "",
+        "logoUrl": "indo-bpom.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/bpom.jpg",
+        "countryOfIssuing": "Indonesia"
+      },
+      {
+        "name": "Kosher certificate",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "url": "",
+        "logoUrl": "kosher.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/kosher.jpg",
+        "countryOfIssuing": "USA"
+      },
+      {
+        "name": "HACCP",
+        "number": "38748732487324",
+        "dateStart": "2025-01-01",
+        "url": "",
+        "logoUrl": "haccp.png",
+        "ImageUrl": "~/assets/product-certifications/cv-bonafide-anugerah-sentosa/haccp.jpg",
+        "countryOfIssuing": "Indonesia"
+      }
+    ],
+    "images": [
+      {
+        "name": "Arenga Palm Sugar  ",
+        "URL": "bonafide-desicated-coconut.png"
+      }
+    ],
+    "availablePort": [
+      {
+        "name": "SouthHampton",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Felixstowe",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Piraeus",
+        "country": "Greece"
+      },
+      {
+        "name": "Genoa",
+        "country": "Italy"
+      }
+    ],
+    "logisticScenario": [
+      {
+        "name": "Surabaya to SouthHampton",
+        "from": "Surabaya Tanjung Perak",
+        "to": "SouthHampton, United Kingdom",
+        "baseCurrency": "USD",
+        "logisticProvider": "KING Freight Logistics Indonesia, PT",
+        "logisticPricing": [
+          {
+            "name": "20GP",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "1600"
+          },
+          {
+            "name": "40HQ",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "2300"
+          }
+        ]
+      }
+    ],
+    "availableGoods": [
+      {
+        "id": "1",
+        "name": "Coconut Sugar 0.000 MT {1}",
+        "enabled": "true",
+        "visible": "false",
+        "description": "Coconut Sugar 0 MT for Testing",
+        "maxWeight": "0",
+        "maxWeightUnit": "Metric Tons",
+        "factoryPrice": "2",
+        "factoryPriceUnit": "GBP",
+        "totalPrice": "2",
+        "totalPriceUnit": "GBP",
+        "checkOutURL": "",
+        "paymentStripeURL": "https://buy.stripe.com/bIY6oP7kn7jd1EI148",
+        "paymentPaypalURL": "",
+        "paymentCryptoURL": ""
+      }
+    ],
+    "countryOfOriginTaxes": [
+      {
+        "name": "VAT / PPN",
+        "country": "Indonesia",
+        "description": "Value added taxes",
+        "value": "0.12"
+      }
+    ],
+    "countryOfDestinationTaxes": [
+      {
+        "name": "VAT",
+        "country": "United Kingdom",
+        "description": "Value added taxes",
+        "value": "0.20"
+      }
+    ]
   }
-
 ]

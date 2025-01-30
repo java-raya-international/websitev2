@@ -152,7 +152,7 @@
     ]
   },
   {
-    "id": "01010006",
+    "id": "03020002",
     "name": "Crude Coconut Oil",
     "description": "\nCrude Coconut Oil (CNO) is crude coconut oil produced from the extrac on of dried coconut meat (copra).crude coconut oil produced from the extrac on of dried coconut meat (copra).",
     "description2": "s reﬁning, bleaching, and deodorizing, giving it the name RBD. This oil has a clear white to golden-yellow color. The color and clarity level of reﬁned coconut oil is called RED, the higher the RED number, the yellower the color. RBD Coconut Oil func ons as a raw material for cooking oil, butter, and butter cream, besides that, it can also be used as a raw material for soap, pharmaceutical products, and cosmetics.",
@@ -223,7 +223,7 @@
     "images": [
       {
         "name": "VCO ",
-        "URL": "bonafide-rbd-coconut-oil.png"
+        "URL": "bonafide-crude-coconut-oil.png"
       }
     ],
     "availablePort": [
