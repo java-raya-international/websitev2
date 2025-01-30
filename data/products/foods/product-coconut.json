@@ -33,7 +33,6 @@
     "certificates": [
       {
         "name": "Indonesia Halal Certificate",
-        "description": "Indonesia halal certificate",
         "number": "38748732487324",
         "dateStart": "2025-01-01",
         "URL": "",
@@ -43,7 +42,6 @@
       },
       {
         "name": "Indonesia BPOM",
-        "description": "Indonesia food safety",
         "number": "38748732487324",
         "dateStart": "2025-01-01",
         "URL": "",
@@ -53,7 +51,6 @@
       },
       {
         "name": "Kosher certificate",
-        "description": "a stamp of approval from a rabbinic agency that verifies a product meets kosher law",
         "number": "38748732487324",
         "dateStart": "2025-01-01",
         "url": "",
@@ -63,7 +60,6 @@
       },
       {
         "name": "HACCP",
-        "description": "s a document issued by a third-party auditor that verifies a food business is following recognized food safety standards by identifying and controlling potential hazards throughout the food production process, demonstrating their commitment to producing safe food products; essentially",
         "number": "38748732487324",
         "dateStart": "2025-01-01",
         "url": "",

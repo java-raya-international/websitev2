@@ -9,14 +9,18 @@
         "subcategory": "product-coconut",
         "title": "Coconut",
         "relativeURL": "/products/foods/coconut",
-        "data": "~/data/products/foods/product-coconut.json"
+        "data": "~/data/products/foods/product-coconut.json",
+        "visible": "true",
+        "enable": "true"
       },
       {
         "id": "02",
         "subcategory": "product-rice",
         "title": "Rice",
         "relativeURL": "/products/foods/rice",
-        "data": "~/data/products/foods/product-rice.json"
+        "data": "~/data/products/foods/product-rice.json",
+        "visible": "true",
+        "enable": "true"
       }
     ]
   },
@@ -30,7 +34,9 @@
         "subcategory": "green-craft",
         "title": "Green Craft",
         "relativeURL": "/products/crafts/green-craft",
-        "data": "~/data/products/crafts/product-green-craft.json"
+        "data": "~/data/products/crafts/product-green-craft.json",
+        "visible": "true",
+        "enable": "true"
       }
 
     ]
@@ -45,14 +51,18 @@
         "subcategory": "bronze-copper",
         "title": "Bronze and Copper Ingots",
         "relativeURL": "/products/materials/bronze-copper",
-        "data": "~/data/products/materials/product-bronze-copper.json"
+        "data": "~/data/products/materials/product-bronze-copper.json",
+        "visible": "true",
+        "enable": "true"
       },
       {
         "id": "02",
         "subcategory": "steel",
         "title": "Steel",
         "relativeURL": "/products/materials/steel",
-        "data": "~/data/products/materials/steel.json"
+        "data": "~/data/products/materials/steel.json",
+        "visible": "true",
+        "enable": "false"
       }
     ]
   }

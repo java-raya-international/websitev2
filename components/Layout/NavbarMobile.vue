@@ -34,13 +34,18 @@
                     </v-expansion-panel-title>
                     <v-expansion-panel-text>
                       <ul class="mobile-menu-items sub-dropdown" v-for="(item,index2) in product.items" :key="index2">
-                        <li>
+                        <li  v-if="item.visible === 'true'">
                           <NuxtLink
                               class="dropdown-item"
                               :to="item.relativeURL"
-                              @click="stateStoreInstance.onChangeShow">
+                              @click="stateStoreInstance.onChangeShow"  v-if="item.enable==='true'">
                             {{ item.title }}
                           </NuxtLink>
+
+                          <a class="dropdown-item" :to="item.relativeURL" v-if="item.enable!=='true'" disabled="disabled" style="color:red;">
+                            {{ item.title }}
+                          </a>
+
                         </li>
                       </ul>
                     </v-expansion-panel-text>

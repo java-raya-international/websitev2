@@ -182,7 +182,7 @@ const navigateTo = (path) => {
         >
           <v-tab value="description"> Description</v-tab>
           <v-tab value="specification"> Specification</v-tab>
-          <v-tab value="reviews"> Certification</v-tab>
+          <v-tab value="certification"> Certification</v-tab>
         </v-tabs>
 
         <v-card-text>
@@ -240,7 +240,7 @@ const navigateTo = (path) => {
                 </table>
               </div>
             </v-tabs-window-item>
-            <v-tabs-window-item value="reviews">
+            <v-tabs-window-item value="certification">
               <div class="product-reviews">
 
 
@@ -262,11 +262,6 @@ const navigateTo = (path) => {
                           </div>
                           <div>Certificate Number : {{ cert.number }}</div>
                         </div>
-                        <p>
-                          {{
-                            cert.description
-                          }}
-                        </p>
                       </div>
                     </div>
                   </li>

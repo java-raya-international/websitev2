@@ -38,10 +38,13 @@
                     <h6 class="sub-menu-title">{{ product.title }}</h6>
 
                     <ul class="sub-menu" v-for="(item, index2) in product.items" :key="index2">
-                      <li>
-                        <NuxtLink class="dropdown-item" :to="item.relativeURL">
+                      <li v-if="item.visible === 'true'">
+                        <NuxtLink class="dropdown-item" :to="item.relativeURL" v-if="item.enable==='true'">
                           {{ item.title }}
                         </NuxtLink>
+                        <a class="dropdown-item" :to="item.relativeURL" v-if="item.enable!=='true'" disabled="disabled" style="color:red;">
+                          {{ item.title }}
+                        </a>
                       </li>
                     </ul>
                   </div>
