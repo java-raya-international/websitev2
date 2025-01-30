@@ -7,11 +7,14 @@
             class="ps-0 mb-0 list-unstyled info-link d-flex align-items-center justify-content-center justify-content-md-start position-relative tops-1"
           >
             <li>
-              <NuxtLink to="/about/us">About Us</NuxtLink>
+              <NuxtLink to="/">Home</NuxtLink>
             </li>
             <li>
-              <NuxtLink to="/customers/faq">FAQs</NuxtLink>
+              <NuxtLink to="/about/us">About Us</NuxtLink>
             </li>
+<!--            <li>-->
+<!--              <NuxtLink to="/customers/faq">FAQs</NuxtLink>-->
+<!--            </li>-->
             <li>
               <NuxtLink to="/contact">Help & Contact</NuxtLink>
             </li>
