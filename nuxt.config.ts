@@ -1,5 +1,4 @@
 import {defineNuxtConfig} from "nuxt/config";
-import type {Plugin} from "vite";
 import vuetify, {transformAssetUrls} from "vite-plugin-vuetify";
 
 export default defineNuxtConfig({
@@ -52,7 +51,8 @@ export default defineNuxtConfig({
         "nuxt-swiper",
         "nuxt-calendly",
         "@nuxt/icon",
-        "@stefanobartoletti/nuxt-social-share"
+        "@stefanobartoletti/nuxt-social-share",
+
     ],
 
 
