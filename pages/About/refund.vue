@@ -4,7 +4,6 @@
 
 <template>
   <div>
-    <LayoutTopHeader/>
     <LayoutMiddleHeader/>
     <LayoutNavbarDesktop/>
     <NoRefund/>

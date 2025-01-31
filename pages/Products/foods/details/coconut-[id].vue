@@ -5,7 +5,6 @@ import CoconutDetails from "~/components/Products/CoconutDetails.vue";
 
 <template>
   <div>
-    <LayoutTopHeader/>
     <LayoutMiddleHeader/>
     <LayoutNavbarDesktop/>
     <ProductsCoconutDetails/>

@@ -5,7 +5,6 @@ import CoconutList from "~/components/Products/CoconutList.vue";
 
 <template>
   <div>
-    <LayoutTopHeader/>
     <LayoutMiddleHeader/>
     <LayoutNavbarDesktop/>
     <CoconutList/>

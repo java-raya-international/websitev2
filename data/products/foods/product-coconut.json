@@ -120,7 +120,7 @@
         "id": "1",
         "name": "Coconut Sugar 0.000 MT {1}",
         "enabled": "true",
-        "visible": "true",
+        "visible": "false",
         "description": "Coconut Sugar 0 MT for Testing",
         "maxWeight": "0",
         "maxWeightUnit": "Metric Tons",

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <LayoutTopHeader />
+<!--    <LayoutTopHeader />-->
     <LayoutMiddleHeader />
     <LayoutNavbarDesktop />
     <FrontPageBanner />

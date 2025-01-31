@@ -9,7 +9,6 @@ import productRiceOrganicJson from "~/data/products/foods/product-rice-organic.j
 
 <template>
   <div>
-    <LayoutTopHeader/>
     <LayoutMiddleHeader/>
     <LayoutNavbarDesktop/>
 

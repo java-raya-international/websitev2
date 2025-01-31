@@ -117,23 +117,6 @@
         "id": "1",
         "name": "Red Rice 0.000 MT {1}",
         "enabled": "true",
-        "visible": "true",
-        "description": "Red Rice 0 MT for Testing",
-        "maxWeight": "0",
-        "maxWeightUnit": "Metric Tons",
-        "factoryPrice": "2",
-        "factoryPriceUnit": "GBP",
-        "totalPrice": "2",
-        "totalPriceUnit": "GBP",
-        "checkOutURL": "",
-        "paymentStripeURL": "https://buy.stripe.com/9AQeVl48bavp2IM003",
-        "paymentPaypalURL": "",
-        "paymentCryptoURL": ""
-      },
-      {
-        "id": "2",
-        "name": "Red Rice 0.000 MT {2}",
-        "enabled": "true",
         "visible": "false",
         "description": "Red Rice 0 MT for Testing",
         "maxWeight": "0",
@@ -543,7 +526,6 @@
       }
     ],
     "availableGoods": [
-
     ],
     "countryOfOriginTaxes": [
       {
