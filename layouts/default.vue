@@ -1,6 +1,6 @@
 <template>
   <div>
-    <LayoutPreloader v-if="isLoading" />
+<!--    <LayoutPreloader v-if="isLoading" />-->
     <NuxtPage/>
     <LayoutNavbarMobile />
     <LayoutLocationOption />

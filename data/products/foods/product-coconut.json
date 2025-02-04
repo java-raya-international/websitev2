@@ -8,6 +8,7 @@
     "brand": "bas",
     "category": "Foods",
     "manufacturingURL": "",
+    "cryptoInvoiceEnabled": "true",
     "tags": [
       "food",
       "sugar",
@@ -160,6 +161,7 @@
     "brand": "bas",
     "category": "Foods",
     "manufacturingURL": "",
+    "cryptoInvoiceEnabled": "true",
     "tags": [
       "food",
       "sugar",
@@ -312,6 +314,7 @@
     "brand": "bas",
     "category": "Foods",
     "manufacturingURL": "",
+    "cryptoInvoiceEnabled": "true",
     "tags": [
       "food",
       "sugar",
@@ -464,6 +467,7 @@
     "brand": "bas",
     "category": "Foods",
     "manufacturingURL": "",
+    "cryptoInvoiceEnabled": "true",
     "tags": [
       "food",
       "ediable oil",
@@ -617,6 +621,7 @@
     "brand": "bas",
     "category": "Foods",
     "manufacturingURL": "",
+    "cryptoInvoiceEnabled": "true",
     "tags": [
       "food",
       "sugar",
@@ -771,6 +776,7 @@
     "brand": "bas",
     "category": "Foods",
     "manufacturingURL": "",
+    "cryptoInvoiceEnabled": "true",
     "tags": [
       "food",
       "sugar",

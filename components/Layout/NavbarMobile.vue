@@ -6,9 +6,9 @@
     ]"
   >
     <div class="offcanvas-header justify-space-between">
-      <NuxtLink to="/" class="logo d-inline-block">
-        <img src="~/assets/brands/0000015_javaraya-logo-with-words.png" alt="logo"/>
-      </NuxtLink>
+<!--      <NuxtLink to="/" class="logo d-inline-block">-->
+<!--        <img src="~/assets/brands/0000015_javaraya-logo-with-words.png" alt="logo" style="max-height: 60px;"/>-->
+<!--      </NuxtLink>-->
 
       <button
           type="button"
@@ -20,7 +20,7 @@
     </div>
 
     <div class="offcanvas-body">
-      <NuxtLink to="/">Home</NuxtLink>
+      <NuxtLink to="/" class="dropdown-item">Home</NuxtLink>
       <v-expansion-panels>
         <v-expansion-panel>
           <v-expansion-panel-title>Products</v-expansion-panel-title>

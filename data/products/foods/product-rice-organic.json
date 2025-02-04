@@ -8,6 +8,7 @@
     "brand": "sirtanio",
     "category": "Foods",
     "manufacturingURL": "",
+    "cryptoInvoiceEnabled": "true",
     "tags": [
       "food",
       "red rice",
@@ -117,7 +118,7 @@
         "id": "1",
         "name": "Red Rice 0.000 MT {1}",
         "enabled": "true",
-        "visible": "false",
+        "visible": "true",
         "description": "Red Rice 0 MT for Testing",
         "maxWeight": "0",
         "maxWeightUnit": "Metric Tons",
@@ -157,6 +158,7 @@
     "sku": "FD00000002",
     "brand": "sirtanio",
     "manufacturingURL": "",
+    "cryptoInvoiceEnabled": "true",
     "tags": [
       "food",
       "red rice",
@@ -289,6 +291,7 @@
     "sku": "FD00000003",
     "brand": "sirtanio",
     "manufacturingURL": "",
+    "cryptoInvoiceEnabled": "true",
     "tags": [
       "food",
       "red rice",
@@ -421,6 +424,7 @@
     "sku": "FD00000004",
     "brand": "sirtanio",
     "manufacturingURL": "",
+    "cryptoInvoiceEnabled": "true",
     "tags": [
       "food",
       "red rice",
