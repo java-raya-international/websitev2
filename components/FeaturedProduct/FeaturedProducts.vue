@@ -6,7 +6,7 @@
       >
         <h3 class="fs-3 mb-0 mb-1 mb-sm-0">Featured Products</h3>
         <div>
-          <NuxtLink to="/products" class="read-more">
+          <NuxtLink to="/pages/OldXPervert/products" class="read-more">
             <span>See All Deals</span>
             <i class="ri-arrow-right-up-line ms-1"></i>
           </NuxtLink>
@@ -16,7 +16,7 @@
         <div class="col-c-20">
           <div class="single-product-telemobile-item">
             <div class="product-img position-relative">
-              <NuxtLink to="/product-details" class="d-block">
+              <NuxtLink to="/OldXPervert/product-details" class="d-block">
                 <img src="~/assets/images/product-1.png" alt="product" />
               </NuxtLink>
               <div
@@ -33,7 +33,7 @@
               </div>
             </div>
             <div class="product-content">
-              <NuxtLink to="/product-details" class="title">
+              <NuxtLink to="/OldXPervert/product-details" class="title">
                 Microwave Oven With LED Lighting - 700 Watts, 0.7 cu ft
               </NuxtLink>
               <div class="d-flex gap-1 review">
@@ -71,7 +71,7 @@
         <div class="col-c-20">
           <div class="single-product-telemobile-item">
             <div class="product-img position-relative">
-              <NuxtLink to="/product-details" class="d-block">
+              <NuxtLink to="/OldXPervert/product-details" class="d-block">
                 <img src="~/assets/images/product-6.png" alt="product" />
               </NuxtLink>
               <div
@@ -88,7 +88,7 @@
               </div>
             </div>
             <div class="product-content">
-              <NuxtLink to="/product-details" class="title">
+              <NuxtLink to="/OldXPervert/product-details" class="title">
                 Multiplatform Wireless Noise-Cancelling Gaming Headset
               </NuxtLink>
               <div class="d-flex gap-1 review">
@@ -127,7 +127,7 @@
         <div class="col-c-20">
           <div class="single-product-telemobile-item">
             <div class="product-img position-relative">
-              <NuxtLink to="/product-details" class="d-block">
+              <NuxtLink to="/OldXPervert/product-details" class="d-block">
                 <img src="~/assets/images/product-7.png" alt="product" />
               </NuxtLink>
               <div
@@ -144,7 +144,7 @@
               </div>
             </div>
             <div class="product-content">
-              <NuxtLink to="/product-details" class="title">
+              <NuxtLink to="/OldXPervert/product-details" class="title">
                 GPS Smartwatch with Bright Touchscreen Display
               </NuxtLink>
               <div class="d-flex gap-1 review">
@@ -183,7 +183,7 @@
         <div class="col-c-20">
           <div class="single-product-telemobile-item">
             <div class="product-img position-relative">
-              <NuxtLink to="/product-details" class="d-block">
+              <NuxtLink to="/OldXPervert/product-details" class="d-block">
                 <img src="~/assets/images/product-8.png" alt="product" />
               </NuxtLink>
               <div
@@ -200,7 +200,7 @@
               </div>
             </div>
             <div class="product-content">
-              <NuxtLink to="/product-details" class="title">
+              <NuxtLink to="/OldXPervert/product-details" class="title">
                 SAMSUNG 32-Inch Class QLED 4K Q60C Series Quantum HDR
               </NuxtLink>
               <div class="d-flex gap-1 review">
@@ -239,7 +239,7 @@
         <div class="col-c-20">
           <div class="single-product-telemobile-item">
             <div class="product-img position-relative">
-              <NuxtLink to="/product-details" class="d-block">
+              <NuxtLink to="/OldXPervert/product-details" class="d-block">
                 <img src="~/assets/images/product-9.png" alt="product" />
               </NuxtLink>
               <div
@@ -256,7 +256,7 @@
               </div>
             </div>
             <div class="product-content">
-              <NuxtLink to="/product-details" class="title">
+              <NuxtLink to="/OldXPervert/product-details" class="title">
                 Apple MacBook Pro 16.2" with Liquid Retina XDR Display
               </NuxtLink>
               <div class="d-flex gap-1 review">

@@ -6,7 +6,7 @@
       >
         <h3 class="fs-3 mb-0 mb-1 mb-sm-0">Today’s Best Deals</h3>
         <div class="">
-          <NuxtLink to="/products" class="read-more">
+          <NuxtLink to="/OldXPervert/products" class="read-more">
             <span>See All Deals</span>
             <i class="ri-arrow-right-up-line ms-1"></i>
           </NuxtLink>
@@ -18,7 +18,7 @@
             <div class="best-deals-content">
               <h3>iPad & Tablets</h3>
               <p>Up to 50% off today!</p>
-              <NuxtLink to="/products" class="read-more">
+              <NuxtLink to="/OldXPervert/products" class="read-more">
                 <span>Shop Now</span>
                 <i class="ri-arrow-right-up-line"></i>
               </NuxtLink>
@@ -31,7 +31,7 @@
             <div class="best-deals-content">
               <h3>Cell Phones & Smartphones</h3>
               <p>Up to 20% off today!</p>
-              <NuxtLink to="/products" class="read-more">
+              <NuxtLink to="/OldXPervert/products" class="read-more">
                 <span>Shop Now</span>
                 <i class="ri-arrow-right-up-line"></i>
               </NuxtLink>
@@ -44,7 +44,7 @@
             <div class="best-deals-content">
               <h3>Audio & SmartTV</h3>
               <p>Up to 70% off today!</p>
-              <NuxtLink to="/products" class="read-more">
+              <NuxtLink to="/OldXPervert/products" class="read-more">
                 <span>Shop Now</span>
                 <i class="ri-arrow-right-up-line"></i>
               </NuxtLink>
@@ -57,7 +57,7 @@
             <div class="best-deals-content">
               <h3>Premium Headphones</h3>
               <p>Up to 40% off today!</p>
-              <NuxtLink to="/products" class="read-more">
+              <NuxtLink to="/OldXPervert/products" class="read-more">
                 <span>Shop Now</span>
                 <i class="ri-arrow-right-up-line"></i>
               </NuxtLink>

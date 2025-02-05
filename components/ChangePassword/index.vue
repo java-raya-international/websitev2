@@ -16,7 +16,7 @@
             <div class="authentication-form">
               <ul class="nav nav-tabs login-tabs" id="myTab" role="tablist">
                 <li class="nav-item" role="presentation">
-                  <NuxtLink to="/change-password" class="nav-link active">
+                  <NuxtLink to="/OldXPervert/change-password" class="nav-link active">
                     Change Password
                   </NuxtLink>
                 </li>

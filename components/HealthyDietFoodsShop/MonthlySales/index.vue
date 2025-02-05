@@ -19,7 +19,7 @@
           </v-tabs>
         </div>
         <div>
-          <NuxtLink to="/products" class="read-more">
+          <NuxtLink to="/OldXPervert/products" class="read-more">
             <span>See All Deals</span>
             <i class="ri-arrow-right-up-line ms-1"></i>
           </NuxtLink>

@@ -11,7 +11,7 @@
                 Explore our exclusive sale on cutting-edge electronics devices
               </p>
               <NuxtLink
-                to="/products"
+                to="/OldXPervert/products"
                 class="btn btn-warning text-white rounded-pill"
               >
                 <span>Shop Now</span>

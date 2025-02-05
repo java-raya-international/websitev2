@@ -12,7 +12,7 @@
             <span class="top-title">Today’s Deal</span>
             <h3>Fresh Egg’s</h3>
             <p>Up to 70% off!</p>
-            <NuxtLink to="/products" class="read-more success">
+            <NuxtLink to="/OldXPervert/products" class="read-more success">
               <span>Shop Now</span>
               <i class="ri-arrow-right-up-line ms-1"></i>
             </NuxtLink>
@@ -28,7 +28,7 @@
             <span class="top-title">Weekend Sale</span>
             <h3>Breads & Bakery</h3>
             <p>Flat 40% off!</p>
-            <NuxtLink to="/products" class="read-more success">
+            <NuxtLink to="/OldXPervert/products" class="read-more success">
               <span>Shop Now</span>
               <i class="ri-arrow-right-up-line ms-1"></i>
             </NuxtLink>
@@ -44,7 +44,7 @@
             <span class="top-title">Organic Foods</span>
             <h3>Fresh Egg’s</h3>
             <p>Up to 50% off!</p>
-            <NuxtLink to="/products" class="read-more success">
+            <NuxtLink to="/OldXPervert/products" class="read-more success">
               <span>Shop Now</span>
               <i class="ri-arrow-right-up-line ms-1"></i>
             </NuxtLink>

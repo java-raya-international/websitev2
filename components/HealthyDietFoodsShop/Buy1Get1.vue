@@ -31,7 +31,7 @@
             </ul>
           </div>
           <NuxtLink
-            to="/products"
+            to="/OldXPervert/products"
             class="btn btn-warning text-white rounded-pill"
           >
             <span>Shop Now</span>

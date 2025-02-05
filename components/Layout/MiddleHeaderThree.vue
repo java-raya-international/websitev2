@@ -28,7 +28,7 @@
           class="d-flex middle-header-right ps-0 mb-0 list-unstyled justify-content-center justify-content-lg-end mt-3 mt-lg-0"
         >
           <li class="info">
-            <NuxtLink to="/login" class="text-decoration-none">
+            <NuxtLink to="/OldXPervert/login" class="text-decoration-none">
               <div class="d-flex align-items-center">
                 <div class="flex-shrink-0">
                   <i class="ri-phone-line bg-danger-10"></i>
@@ -41,7 +41,7 @@
             </NuxtLink>
           </li>
           <li class="buy-info position-relative tops-3">
-            <NuxtLink to="/login" class="text-decoration-none success-hover-bg">
+            <NuxtLink to="/OldXPervert/login" class="text-decoration-none success-hover-bg">
               <div class="d-flex align-items-center">
                 <div class="flex-shrink-0">
                   <i class="ri-user-line"></i>
@@ -51,7 +51,7 @@
           </li>
           <li class="buy-info tops-4 position-relative">
             <NuxtLink
-              to="/wishlist"
+              to="/OldXPervert/wishlist"
               class="text-decoration-none success-hover-bg"
             >
               <div class="position-relative me-9">
@@ -90,7 +90,7 @@
                   </button>
                   <NuxtLink
                     class="dropdown-item d-flex align-items-center"
-                    to="/product-details"
+                    to="/OldXPervert/product-details"
                   >
                     <img src="~/assets/images/product-26.png" alt="product" />
                     <div class="ms-3 d-inline-block text-truncate">
@@ -110,7 +110,7 @@
                   </button>
                   <NuxtLink
                     class="dropdown-item d-flex align-items-center"
-                    to="/product-details"
+                    to="/OldXPervert/product-details"
                   >
                     <img src="~/assets/images/product-27.png" alt="product" />
                     <div class="ms-3 d-inline-block text-truncate">
@@ -130,7 +130,7 @@
                   </button>
                   <NuxtLink
                     class="dropdown-item d-flex align-items-center"
-                    to="/product-details"
+                    to="/OldXPervert/product-details"
                   >
                     <img src="~/assets/images/product-28.png" alt="product" />
                     <div class="ms-3 d-inline-block text-truncate">
@@ -151,11 +151,11 @@
                 <li
                   class="d-flex justify-content-between align-items-center cart-item"
                 >
-                  <NuxtLink to="/cart" class="btn btn-primary fs-14 text-white">
+                  <NuxtLink to="/OldXPervert/cart" class="btn btn-primary fs-14 text-white">
                     View Cart
                   </NuxtLink>
                   <NuxtLink
-                    to="/checkout"
+                    to="/OldXPervert/checkout"
                     class="btn btn-warning fs-14 text-white"
                   >
                     Checkout

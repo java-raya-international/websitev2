@@ -12,7 +12,7 @@
             <div class="authentication-form">
               <ul class="nav nav-tabs login-tabs" id="myTab" role="tablist">
                 <li class="nav-item" role="presentation">
-                  <NuxtLink to="/forgot-password" class="nav-link active">
+                  <NuxtLink to="/OldXPervert/forgot-password" class="nav-link active">
                     Forgot Password
                   </NuxtLink>
                 </li>

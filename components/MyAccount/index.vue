@@ -58,7 +58,7 @@
                             Remember
                           </label>
                         </div>
-                        <NuxtLink to="/forgot-password" class="text-primary">
+                        <NuxtLink to="/OldXPervert/forgot-password" class="text-primary">
                           Lost your password?
                         </NuxtLink>
                       </div>
@@ -74,7 +74,7 @@
                         <p class="text-secondary ms-1 text-primary">
                           Don’t have an account?
                           <NuxtLink
-                            to="/register"
+                            to="/OldXPervert/register"
                             class="text-decoration-none text-primary"
                           >
                             Register
@@ -125,7 +125,7 @@
                         <p class="text-secondary ms-1 text-primary">
                           Already have an account?
                           <NuxtLink
-                            to="/login"
+                            to="/OldXPervert/login"
                             class="text-decoration-none text-primary"
                           >
                             Login

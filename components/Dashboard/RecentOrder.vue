@@ -24,13 +24,13 @@
                 </a>
               </td>
               <td class="product-thumbnail">
-                <NuxtLink to="/product-details">
+                <NuxtLink to="/OldXPervert/product-details">
                   <img src="~/assets/images/product-6.png" alt="Image" />
                 </NuxtLink>
               </td>
 
               <td class="product-name">
-                <NuxtLink to="/product-details" class="title">
+                <NuxtLink to="/OldXPervert/product-details" class="title">
                   Multiplatform Wireless Noise-Cancelling Gaming Headset
                 </NuxtLink>
               </td>
@@ -60,13 +60,13 @@
               </td>
 
               <td class="product-thumbnail">
-                <NuxtLink to="/product-details">
+                <NuxtLink to="/OldXPervert/product-details">
                   <img src="~/assets/images/product-7.png" alt="Image" />
                 </NuxtLink>
               </td>
 
               <td class="product-name">
-                <NuxtLink to="/product-details" class="title">
+                <NuxtLink to="/OldXPervert/product-details" class="title">
                   GPS Smartwatch with Bright Touchscreen Display
                 </NuxtLink>
               </td>
@@ -96,13 +96,13 @@
               </td>
 
               <td class="product-thumbnail">
-                <NuxtLink to="/product-details">
+                <NuxtLink to="/OldXPervert/product-details">
                   <img src="~/assets/images/product-8.png" alt="Image" />
                 </NuxtLink>
               </td>
 
               <td class="product-name">
-                <NuxtLink to="/product-details" class="title">
+                <NuxtLink to="/OldXPervert/product-details" class="title">
                   SAMSUNG 32-Inch Class QLED 4K Q60C Series Quantum HDR
                 </NuxtLink>
               </td>
@@ -132,13 +132,13 @@
               </td>
 
               <td class="product-thumbnail">
-                <NuxtLink to="/product-details">
+                <NuxtLink to="/OldXPervert/product-details">
                   <img src="~/assets/images/product-9.png" alt="Image" />
                 </NuxtLink>
               </td>
 
               <td class="product-name">
-                <NuxtLink to="/product-details" class="title">
+                <NuxtLink to="/OldXPervert/product-details" class="title">
                   Apple MacBook Pro 16.2" with Liquid Retina XDR Display
                 </NuxtLink>
               </td>

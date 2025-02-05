@@ -26,22 +26,22 @@
 
               <ul class="ps-0 mb-0 list-unstyled import-link">
                 <li>
-                  <NuxtLink to="/products">Smartphone & Tablets</NuxtLink>
+                  <NuxtLink to="/OldXPervert/products">Smartphone & Tablets</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/products">Laptop & Desktop</NuxtLink>
+                  <NuxtLink to="/OldXPervert/products">Laptop & Desktop</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/products">Headphones</NuxtLink>
+                  <NuxtLink to="/OldXPervert/products">Headphones</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/products">Smart Watches</NuxtLink>
+                  <NuxtLink to="/OldXPervert/products">Smart Watches</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/products">Drone & Camera</NuxtLink>
+                  <NuxtLink to="/OldXPervert/products">Drone & Camera</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/products">Home Electronics</NuxtLink>
+                  <NuxtLink to="/OldXPervert/products">Home Electronics</NuxtLink>
                 </li>
               </ul>
             </div>
@@ -52,22 +52,22 @@
 
               <ul class="ps-0 mb-0 list-unstyled import-link">
                 <li>
-                  <NuxtLink to="/dashboard">Your Account</NuxtLink>
+                  <NuxtLink to="/OldXPervert/dashboard">Your Account</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/order-history">Your Order</NuxtLink>
+                  <NuxtLink to="/OldXPervert/order-history">Your Order</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/privacy-policy">Return Policy</NuxtLink>
+                  <NuxtLink to="/OldXPervert/privacy-policy">Return Policy</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/faq">Help Center</NuxtLink>
+                  <NuxtLink to="/OldXPervert/faq">Help Center</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/products">Product Replacement</NuxtLink>
+                  <NuxtLink to="/OldXPervert/products">Product Replacement</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/dashboard">Shop With Points</NuxtLink>
+                  <NuxtLink to="/OldXPervert/dashboard">Shop With Points</NuxtLink>
                 </li>
               </ul>
             </div>
@@ -78,19 +78,19 @@
 
               <ul class="ps-0 mb-0 list-unstyled import-link">
                 <li>
-                  <NuxtLink to="/about-us">About Us</NuxtLink>
+                  <NuxtLink to="/OldXPervert/about-us">About Us</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/about-us">Careers</NuxtLink>
+                  <NuxtLink to="/OldXPervert/about-us">Careers</NuxtLink>
                 </li>
                 <li>
                   <NuxtLink to="/contact">Store Location</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/our-blog">News Center</NuxtLink>
+                  <NuxtLink to="/OldXPervert/our-blog">News Center</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/about-us">Investor Relations</NuxtLink>
+                  <NuxtLink to="/OldXPervert/about-us">Investor Relations</NuxtLink>
                 </li>
                 <li>
                   <NuxtLink to="/contact">Contact Us</NuxtLink>

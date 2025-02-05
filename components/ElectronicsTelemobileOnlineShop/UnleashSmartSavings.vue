@@ -11,7 +11,7 @@
               <h3>Time to Upgrade: Smart Watches Sale</h3>
               <p>Unleash Smart Savings Today!</p>
               <NuxtLink
-                to="/products"
+                to="/OldXPervert/products"
                 class="btn btn-warning text-white rounded-pill"
               >
                 <span>Shop Now</span>
@@ -34,7 +34,7 @@
               <h3>Laptop Sale - Unmissable Deals Await!</h3>
               <p>Unleash Smart Savings Today!</p>
               <NuxtLink
-                to="/products"
+                to="/OldXPervert/products"
                 class="btn btn-warning text-white rounded-pill"
               >
                 <span>Shop Now</span>

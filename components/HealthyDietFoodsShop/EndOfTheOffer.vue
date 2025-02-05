@@ -25,7 +25,7 @@
                     </li>
                   </ul>
                 </div>
-                <NuxtLink to="/product-details" class="title mb-4">
+                <NuxtLink to="/OldXPervert/product-details" class="title mb-4">
                   Simply Orange Juice, 52 fl oz, 100% Juice Not from
                   Concentrate, Pulp Free
                 </NuxtLink>
@@ -56,7 +56,7 @@
             </div>
             <div class="col-lg-8 col-md-7">
               <NuxtLink
-                to="/product-details"
+                to="/OldXPervert/product-details"
                 class="d-block text-center discover-new-deals-three text-decoration-none text-center mt-4 mt-lg-0"
               >
                 <img src="~/assets/images/product-60.png" alt="product" />

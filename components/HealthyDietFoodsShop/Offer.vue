@@ -12,7 +12,7 @@
             <span class="top-title">Today’s Deal</span>
             <h3>Natural Orange Juice</h3>
             <p>Up to 70% off!</p>
-            <NuxtLink to="/products" class="read-more success">
+            <NuxtLink to="/OldXPervert/products" class="read-more success">
               <span>Shop Now</span>
               <i class="ri-arrow-right-up-line ms-1"></i>
             </NuxtLink>
@@ -34,7 +34,7 @@
             <span class="top-title">Monthly Deal</span>
             <h3>Organic Milk</h3>
             <p>Up to 70% off!</p>
-            <NuxtLink to="/products" class="read-more success">
+            <NuxtLink to="/OldXPervert/products" class="read-more success">
               <span>Shop Now</span>
               <i class="ri-arrow-right-up-line ms-1"></i>
             </NuxtLink>

@@ -6,7 +6,7 @@
       >
         <h3 class="fs-3 mb-0 mb-1 mb-sm-0">Recently Viewed</h3>
         <div>
-          <NuxtLink to="/products" class="read-more">
+          <NuxtLink to="/OldXPervert/products" class="read-more">
             <span>See All Deals</span>
             <i class="ri-arrow-right-up-line ms-1"></i>
           </NuxtLink>
@@ -17,7 +17,7 @@
         <div class="col-c-20">
           <div class="single-product-telemobile-item">
             <div class="product-img position-relative">
-              <NuxtLink to="/product-details" class="d-block">
+              <NuxtLink to="/OldXPervert/product-details" class="d-block">
                 <img src="~/assets/images/product-25.png" alt="product" />
               </NuxtLink>
               <div
@@ -34,7 +34,7 @@
               </div>
             </div>
             <div class="product-content">
-              <NuxtLink to="/product-details" class="title">
+              <NuxtLink to="/OldXPervert/product-details" class="title">
                 Organic Sunflower Seed Oil (16oz) USDA Certified 100% Pure
               </NuxtLink>
               <div class="d-flex gap-1 review">
@@ -64,7 +64,7 @@
         <div class="col-c-20">
           <div class="single-product-telemobile-item">
             <div class="product-img position-relative">
-              <NuxtLink to="/product-details" class="d-block">
+              <NuxtLink to="/OldXPervert/product-details" class="d-block">
                 <img src="~/assets/images/product-26.png" alt="product" />
               </NuxtLink>
               <div
@@ -81,7 +81,7 @@
               </div>
             </div>
             <div class="product-content">
-              <NuxtLink to="/product-details" class="title">
+              <NuxtLink to="/OldXPervert/product-details" class="title">
                 365 by Whole Foods Market, Organic Lemon Juice, 10 Fl Oz
               </NuxtLink>
               <div class="d-flex gap-1 review">
@@ -110,7 +110,7 @@
         <div class="col-c-20">
           <div class="single-product-telemobile-item">
             <div class="product-img position-relative">
-              <NuxtLink to="/product-details" class="d-block">
+              <NuxtLink to="/OldXPervert/product-details" class="d-block">
                 <img src="~/assets/images/product-27.png" alt="product" />
               </NuxtLink>
               <div
@@ -127,7 +127,7 @@
               </div>
             </div>
             <div class="product-content">
-              <NuxtLink to="/product-details" class="title">
+              <NuxtLink to="/OldXPervert/product-details" class="title">
                 Oroweat Whole Grains Healthy Multi Grain Bread
               </NuxtLink>
               <div class="d-flex gap-1 review">
@@ -156,7 +156,7 @@
         <div class="col-c-20">
           <div class="single-product-telemobile-item">
             <div class="product-img position-relative">
-              <NuxtLink to="/product-details" class="d-block">
+              <NuxtLink to="/OldXPervert/product-details" class="d-block">
                 <img src="~/assets/images/product-28.png" alt="product" />
               </NuxtLink>
               <div
@@ -173,7 +173,7 @@
               </div>
             </div>
             <div class="product-content">
-              <NuxtLink to="/product-details" class="title">
+              <NuxtLink to="/OldXPervert/product-details" class="title">
                 Green Giant Whole Golden Corn Niblets, 7 Ounce Can (Pack of 12)
               </NuxtLink>
               <div class="d-flex gap-1 review">
@@ -202,7 +202,7 @@
         <div class="col-c-20">
           <div class="single-product-telemobile-item">
             <div class="product-img position-relative">
-              <NuxtLink to="/product-details" class="d-block">
+              <NuxtLink to="/OldXPervert/product-details" class="d-block">
                 <img src="~/assets/images/product-29.png" alt="product" />
               </NuxtLink>
               <div
@@ -219,7 +219,7 @@
               </div>
             </div>
             <div class="product-content">
-              <NuxtLink to="/product-details" class="title">
+              <NuxtLink to="/OldXPervert/product-details" class="title">
                 365 by Whole Foods Market, Organic Trimmed Green Beans
               </NuxtLink>
               <div class="d-flex gap-1 review">

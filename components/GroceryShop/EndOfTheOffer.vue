@@ -8,7 +8,7 @@
               <div class="row align-items-center">
                 <div class="col-lg-5 col-md-5">
                   <NuxtLink
-                    to="/product-details"
+                    to="/OldXPervert/product-details"
                     class="d-block text-center discover-new-deals-img text-decoration-none"
                   >
                     <img src="~/assets/images/product-38.png" alt="product" />
@@ -17,7 +17,7 @@
                 </div>
                 <div class="col-lg-7 col-md-7">
                   <div class="pe-58">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Amazon Fresh - Wavy Salted Potato Chips, 11 oz
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -76,7 +76,7 @@
               <div class="row align-items-center">
                 <div class="col-lg-5 col-md-5">
                   <NuxtLink
-                    to="/product-details"
+                    to="/OldXPervert/product-details"
                     class="d-block text-center discover-new-deals-img text-decoration-none"
                   >
                     <img src="assets/images/product-39.png" alt="product" />
@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-lg-7 col-md-7">
                   <div class="pe-58">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Santa Cruz, Lemon 100% Organic Juice, 16 Fl Oz
                     </NuxtLink>
                     <div class="d-flex gap-1 review">

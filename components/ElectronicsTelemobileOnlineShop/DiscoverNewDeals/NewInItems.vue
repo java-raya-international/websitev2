@@ -3,7 +3,7 @@
     <v-col cols="12" lg="4" sm="6">
       <div class="single-product-telemobile-item">
         <div class="product-img position-relative">
-          <NuxtLink to="/product-details" class="d-block">
+          <NuxtLink to="/OldXPervert/product-details" class="d-block">
             <img src="~/assets/images/product-10.png" alt="product" />
           </NuxtLink>
           <div
@@ -20,7 +20,7 @@
           </div>
         </div>
         <div class="product-content">
-          <NuxtLink to="/product-details" class="title">
+          <NuxtLink to="/OldXPervert/product-details" class="title">
             Wireless Bluetooth Over Ear Headphones, with Active
           </NuxtLink>
           <div class="d-flex gap-1 review">
@@ -59,7 +59,7 @@
     <v-col cols="12" lg="4" sm="6">
       <div class="single-product-telemobile-item">
         <div class="product-img position-relative">
-          <NuxtLink to="/product-details" class="d-block">
+          <NuxtLink to="/OldXPervert/product-details" class="d-block">
             <img src="~/assets/images/product-11.png" alt="product" />
           </NuxtLink>
           <div
@@ -76,7 +76,7 @@
           </div>
         </div>
         <div class="product-content">
-          <NuxtLink to="/product-details" class="title">
+          <NuxtLink to="/OldXPervert/product-details" class="title">
             Power Bank, 25,600mAh Portable Charger 87W Bundle
           </NuxtLink>
           <div class="d-flex gap-1 review">
@@ -115,7 +115,7 @@
     <v-col cols="12" lg="4" sm="6">
       <div class="single-product-telemobile-item">
         <div class="product-img position-relative">
-          <NuxtLink to="/product-details" class="d-block">
+          <NuxtLink to="/OldXPervert/product-details" class="d-block">
             <img src="~/assets/images/product-12.png" alt="product" />
           </NuxtLink>
           <div
@@ -132,7 +132,7 @@
           </div>
         </div>
         <div class="product-content">
-          <NuxtLink to="/product-details" class="title">
+          <NuxtLink to="/OldXPervert/product-details" class="title">
             Wireless Ear Buds with USB-C Charging, Up to 2X
           </NuxtLink>
           <div class="d-flex gap-1 review">
@@ -171,7 +171,7 @@
     <v-col cols="12" lg="4" sm="6">
       <div class="single-product-telemobile-item">
         <div class="product-img position-relative">
-          <NuxtLink to="/product-details" class="d-block">
+          <NuxtLink to="/OldXPervert/product-details" class="d-block">
             <img src="~/assets/images/product-13.png" alt="product" />
           </NuxtLink>
           <div
@@ -188,7 +188,7 @@
           </div>
         </div>
         <div class="product-content">
-          <NuxtLink to="/product-details" class="title">
+          <NuxtLink to="/OldXPervert/product-details" class="title">
             5G Android 13 Unlocked Phone, 5000 mAh Smartphone
           </NuxtLink>
           <div class="d-flex gap-1 review">
@@ -227,7 +227,7 @@
     <v-col cols="12" lg="4" sm="6">
       <div class="single-product-telemobile-item">
         <div class="product-img position-relative">
-          <NuxtLink to="/product-details" class="d-block">
+          <NuxtLink to="/OldXPervert/product-details" class="d-block">
             <img src="~/assets/images/product-14.png" alt="product" />
           </NuxtLink>
           <div
@@ -244,7 +244,7 @@
           </div>
         </div>
         <div class="product-content">
-          <NuxtLink to="/product-details" class="title">
+          <NuxtLink to="/OldXPervert/product-details" class="title">
             Mini Drone for Beginners, SYMA Portable Indoor Quadcopter
           </NuxtLink>
           <div class="d-flex gap-1 review">
@@ -283,7 +283,7 @@
     <v-col cols="12" lg="4" sm="6">
       <div class="single-product-telemobile-item">
         <div class="product-img position-relative">
-          <NuxtLink to="/product-details" class="d-block">
+          <NuxtLink to="/OldXPervert/product-details" class="d-block">
             <img src="~/assets/images/product-15.png" alt="product" />
           </NuxtLink>
           <div
@@ -300,7 +300,7 @@
           </div>
         </div>
         <div class="product-content">
-          <NuxtLink to="/product-details" class="title">
+          <NuxtLink to="/OldXPervert/product-details" class="title">
             5K Digital Camera, WiFi Vlogging with 32G SD Card
           </NuxtLink>
           <div class="d-flex gap-1 review">

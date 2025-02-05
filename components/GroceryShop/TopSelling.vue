@@ -8,7 +8,7 @@
           <h3 class="fs-3 mb-0 mb-1 mb-sm-0">Top Selling</h3>
         </div>
         <div>
-          <NuxtLink to="/products" class="read-more">
+          <NuxtLink to="/OldXPervert/products" class="read-more">
             <span>See All Deals</span>
             <i class="ri-arrow-right-up-line ms-1"></i>
           </NuxtLink>
@@ -57,7 +57,7 @@
         <SwiperSlide v-for="product in products" :key="product.id">
           <div class="single-product-telemobile-item">
             <div class="product-img position-relative">
-              <NuxtLink to="/product-details" class="d-block">
+              <NuxtLink to="/OldXPervert/product-details" class="d-block">
                 <img :src="product.image" alt="product" />
               </NuxtLink>
               <div
@@ -74,7 +74,7 @@
               </div>
             </div>
             <div class="product-content">
-              <NuxtLink to="/product-details" class="title">
+              <NuxtLink to="/OldXPervert/product-details" class="title">
                 {{ product.title }}
               </NuxtLink>
               <div class="d-flex gap-1 review">

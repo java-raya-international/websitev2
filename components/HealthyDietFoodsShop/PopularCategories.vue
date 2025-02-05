@@ -44,7 +44,7 @@
       >
         <SwiperSlide v-for="categorie in categories" :key="categorie.id">
           <NuxtLink
-            to="/products"
+            to="/OldXPervert/products"
             class="single-popular-categories-item d-block"
           >
             <img :src="categorie.image" alt="categories" />

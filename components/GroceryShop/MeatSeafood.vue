@@ -21,7 +21,7 @@
           </v-tabs>
         </div>
         <div>
-          <NuxtLink to="/products" class="read-more">
+          <NuxtLink to="/OldXPervert/products" class="read-more">
             <span>See All</span>
             <i class="ri-arrow-right-up-line ms-1"></i>
           </NuxtLink>
@@ -42,7 +42,7 @@
                   <span class="top-title">Today’s Deal</span>
                   <h3>Fresh Meat</h3>
                   <p>Up to 70% off!</p>
-                  <NuxtLink to="/products" class="read-more warning">
+                  <NuxtLink to="/OldXPervert/products" class="read-more warning">
                     <span>Shop Now</span>
                     <i class="ri-arrow-right-up-line ms-1"></i>
                   </NuxtLink>
@@ -51,7 +51,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-30.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -68,7 +68,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Fresh Brand – Beef Chuck Center Roast, USDA
                       Choice</NuxtLink
                     >
@@ -101,7 +101,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-31.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -119,7 +119,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >All Natural Fresh Chicken Wingless & Drumettes</NuxtLink
                     >
                     <div class="d-flex gap-1 review">
@@ -150,7 +150,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-32.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -168,7 +168,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Wild Caught Pacific Cod Fillet Portions, 1 lb
                       (Frozen)</NuxtLink
                     >
@@ -200,7 +200,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-33.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -218,7 +218,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Essential Atlantic Salmon Portions 2-portions</NuxtLink
                     >
                     <div class="d-flex gap-1 review">
@@ -260,7 +260,7 @@
                   <span class="top-title">Today’s Deal</span>
                   <h3>Fresh Meat</h3>
                   <p>Up to 70% off!</p>
-                  <NuxtLink to="/products" class="read-more warning">
+                  <NuxtLink to="/OldXPervert/products" class="read-more warning">
                     <span>Shop Now</span>
                     <i class="ri-arrow-right-up-line ms-1"></i>
                   </NuxtLink>
@@ -269,7 +269,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-31.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -287,7 +287,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >All Natural Fresh Chicken Wingless & Drumettes</NuxtLink
                     >
                     <div class="d-flex gap-1 review">
@@ -318,7 +318,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-32.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -336,7 +336,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Wild Caught Pacific Cod Fillet Portions, 1 lb
                       (Frozen)</NuxtLink
                     >
@@ -368,7 +368,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-33.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -386,7 +386,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Essential Atlantic Salmon Portions 2-portions</NuxtLink
                     >
                     <div class="d-flex gap-1 review">
@@ -417,7 +417,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-30.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -435,7 +435,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Fresh Brand – Beef Chuck Center Roast, USDA
                       Choice</NuxtLink
                     >
@@ -479,7 +479,7 @@
                   <span class="top-title">Today’s Deal</span>
                   <h3>Fresh Meat</h3>
                   <p>Up to 70% off!</p>
-                  <NuxtLink to="/products" class="read-more warning">
+                  <NuxtLink to="/OldXPervert/products" class="read-more warning">
                     <span>Shop Now</span>
                     <i class="ri-arrow-right-up-line ms-1"></i>
                   </NuxtLink>
@@ -488,7 +488,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-30.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -506,7 +506,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Fresh Brand – Beef Chuck Center Roast, USDA
                       Choice</NuxtLink
                     >
@@ -539,7 +539,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-31.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -557,7 +557,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >All Natural Fresh Chicken Wingless & Drumettes</NuxtLink
                     >
                     <div class="d-flex gap-1 review">
@@ -588,7 +588,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-32.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -606,7 +606,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Wild Caught Pacific Cod Fillet Portions, 1 lb
                       (Frozen)</NuxtLink
                     >
@@ -638,7 +638,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-33.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -656,7 +656,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Essential Atlantic Salmon Portions 2-portions</NuxtLink
                     >
                     <div class="d-flex gap-1 review">
@@ -698,7 +698,7 @@
                   <span class="top-title">Today’s Deal</span>
                   <h3>Fresh Meat</h3>
                   <p>Up to 70% off!</p>
-                  <NuxtLink to="/products" class="read-more warning">
+                  <NuxtLink to="/OldXPervert/products" class="read-more warning">
                     <span>Shop Now</span>
                     <i class="ri-arrow-right-up-line ms-1"></i>
                   </NuxtLink>
@@ -707,7 +707,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-30.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -725,7 +725,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Fresh Brand – Beef Chuck Center Roast, USDA Choice
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -756,7 +756,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-31.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -774,7 +774,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       All Natural Fresh Chicken Wingless & Drumettes
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -806,7 +806,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-32.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -824,7 +824,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Wild Caught Pacific Cod Fillet Portions, 1 lb (Frozen)
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -856,7 +856,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-33.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -874,7 +874,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Essential Atlantic Salmon Portions 2-portions
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -917,7 +917,7 @@
                   <span class="top-title">Today’s Deal</span>
                   <h3>Fresh Meat</h3>
                   <p>Up to 70% off!</p>
-                  <NuxtLink to="/products" class="read-more warning">
+                  <NuxtLink to="/OldXPervert/products" class="read-more warning">
                     <span>Shop Now</span>
                     <i class="ri-arrow-right-up-line ms-1"></i>
                   </NuxtLink>
@@ -926,7 +926,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-30.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -944,7 +944,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Fresh Brand – Beef Chuck Center Roast, USDA Choice
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -976,7 +976,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-31.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -994,7 +994,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       All Natural Fresh Chicken Wingless & Drumettes
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -1026,7 +1026,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-32.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -1044,7 +1044,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Wild Caught Pacific Cod Fillet Portions, 1 lb (Frozen)
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -1076,7 +1076,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-33.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -1094,7 +1094,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Essential Atlantic Salmon Portions 2-portions
                     </NuxtLink>
                     <div class="d-flex gap-1 review">

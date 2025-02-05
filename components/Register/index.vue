@@ -16,10 +16,10 @@
             <div class="authentication-form">
               <ul class="nav nav-tabs login-tabs" id="myTab" role="tablist">
                 <li class="nav-item" role="presentation">
-                  <NuxtLink to="/login" class="nav-link">Login</NuxtLink>
+                  <NuxtLink to="/OldXPervert/login" class="nav-link">Login</NuxtLink>
                 </li>
                 <li class="nav-item" role="presentation">
-                  <NuxtLink to="/register" class="nav-link active">
+                  <NuxtLink to="/OldXPervert/register" class="nav-link active">
                     Register
                   </NuxtLink>
                 </li>
@@ -65,7 +65,7 @@
                   <p class="text-secondary ms-1 text-primary">
                     Already have an account?
                     <NuxtLink
-                      to="/login"
+                      to="/OldXPervert/login"
                       class="text-decoration-none text-primary"
                     >
                       Login

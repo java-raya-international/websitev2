@@ -17,7 +17,7 @@
           <tbody>
             <tr>
               <td>
-                <NuxtLink to="/product-details">
+                <NuxtLink to="/OldXPervert/product-details">
                   <img
                     src="~/assets/images/product-6.png"
                     class="cart-product"
@@ -26,7 +26,7 @@
                 </NuxtLink>
               </td>
               <td>
-                <NuxtLink to="/product-details" class="title">
+                <NuxtLink to="/OldXPervert/product-details" class="title">
                   Multiplatform Wireless Noise-Cancelling Gaming Headset
                 </NuxtLink>
               </td>
@@ -50,7 +50,7 @@
             </tr>
             <tr>
               <td>
-                <NuxtLink to="/product-details">
+                <NuxtLink to="/OldXPervert/product-details">
                   <img
                     src="~/assets/images/product-7.png"
                     class="cart-product"
@@ -59,7 +59,7 @@
                 </NuxtLink>
               </td>
               <td>
-                <NuxtLink to="/product-details" class="title">
+                <NuxtLink to="/OldXPervert/product-details" class="title">
                   GPS Smartwatch with Bright Touchscreen Display
                 </NuxtLink>
               </td>
@@ -83,7 +83,7 @@
             </tr>
             <tr>
               <td>
-                <NuxtLink to="/product-details">
+                <NuxtLink to="/OldXPervert/product-details">
                   <img
                     src="~/assets/images/product-8.png"
                     class="cart-product"
@@ -92,7 +92,7 @@
                 </NuxtLink>
               </td>
               <td>
-                <NuxtLink to="/product-details" class="title">
+                <NuxtLink to="/OldXPervert/product-details" class="title">
                   SAMSUNG 32-Inch Class QLED 4K Q60C Series Quantum HDR
                 </NuxtLink>
               </td>

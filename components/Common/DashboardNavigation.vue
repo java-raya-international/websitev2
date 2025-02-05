@@ -4,28 +4,28 @@
       <h3>Navigation</h3>
     </li>
     <li>
-      <NuxtLink to="/dashboard">Dashboard</NuxtLink>
+      <NuxtLink to="/OldXPervert/dashboard">Dashboard</NuxtLink>
     </li>
     <li>
-      <NuxtLink to="/edit-profile">Edit Profile</NuxtLink>
+      <NuxtLink to="/OldXPervert/edit-profile">Edit Profile</NuxtLink>
     </li>
     <li>
-      <NuxtLink to="/edit-address">Edit Address</NuxtLink>
+      <NuxtLink to="/OldXPervert/edit-address">Edit Address</NuxtLink>
     </li>
     <li>
-      <NuxtLink to="/order-history">Order History</NuxtLink>
+      <NuxtLink to="/OldXPervert/order-history">Order History</NuxtLink>
     </li>
     <li>
-      <NuxtLink to="/order-details">Order Details</NuxtLink>
+      <NuxtLink to="/OldXPervert/order-details">Order Details</NuxtLink>
     </li>
     <li>
-      <NuxtLink to="/address">Address</NuxtLink>
+      <NuxtLink to="/OldXPervert/address">Address</NuxtLink>
     </li>
     <li>
-      <NuxtLink to="/password">Password</NuxtLink>
+      <NuxtLink to="/OldXPervert/password">Password</NuxtLink>
     </li>
     <li>
-      <NuxtLink to="/my-account">Log Out</NuxtLink>
+      <NuxtLink to="/OldXPervert/my-account">Log Out</NuxtLink>
     </li>
   </ul>
 </template>

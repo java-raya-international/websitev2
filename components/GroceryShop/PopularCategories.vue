@@ -6,7 +6,7 @@
       >
         <h3 class="fs-3 mb-0 mb-1 mb-sm-0">Popular Categories</h3>
         <div class="">
-          <NuxtLink to="/products" class="read-more">
+          <NuxtLink to="/OldXPervert/products" class="read-more">
             <span>See All</span>
             <i class="ri-arrow-right-up-line ms-1"></i>
           </NuxtLink>
@@ -56,7 +56,7 @@
       >
         <SwiperSlide v-for="categorie in categories" :key="categorie.id">
           <NuxtLink
-            to="/products"
+            to="/OldXPervert/products"
             class="single-popular-categories-item d-block"
           >
             <img :src="categorie.image" alt="categories" />

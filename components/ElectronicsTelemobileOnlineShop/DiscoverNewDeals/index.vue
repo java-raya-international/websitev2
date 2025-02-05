@@ -14,7 +14,7 @@
           <v-tab value="featured">Featured</v-tab>
         </v-tabs>
         <div>
-          <NuxtLink to="/products" class="read-more">
+          <NuxtLink to="/OldXPervert/products" class="read-more">
             <span>View all Products</span>
             <i class="ri-arrow-right-up-line ms-1"></i>
           </NuxtLink>
@@ -50,7 +50,7 @@
               alt="discover-img"
             />
             <div class="mw-345 m-auto">
-              <NuxtLink to="/product-details" class="title">
+              <NuxtLink to="/OldXPervert/product-details" class="title">
                 Apple 2023 iMac All-in-One Desktop Computer with M3 chip
               </NuxtLink>
               <div class="d-flex gap-1 review justify-content-center">

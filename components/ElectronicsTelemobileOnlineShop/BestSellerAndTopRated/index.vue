@@ -8,7 +8,7 @@
           >
             <h3 class="fs-3 mb-0 mb-1 mb-sm-0">Best Seller</h3>
             <div class="">
-              <NuxtLink to="/products" class="read-more">
+              <NuxtLink to="/OldXPervert/products" class="read-more">
                 <span>See All Products</span>
                 <i class="ri-arrow-right-up-line ms-1"></i>
               </NuxtLink>
@@ -23,7 +23,7 @@
           >
             <h3 class="fs-3 mb-0 mb-1 mb-sm-0">Top Rated</h3>
             <div class="">
-              <NuxtLink to="/products" class="read-more">
+              <NuxtLink to="/OldXPervert/products" class="read-more">
                 <span>See All Products</span>
                 <i class="ri-arrow-right-up-line ms-1"></i>
               </NuxtLink>

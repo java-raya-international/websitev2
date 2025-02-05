@@ -14,7 +14,7 @@
                   <img src="~/assets/images/user-9.jpg" alt="user" />
 
                   <h3>
-                    <NuxtLink to="/edit-profile">Amanda McCarter</NuxtLink>
+                    <NuxtLink to="/OldXPervert/edit-profile">Amanda McCarter</NuxtLink>
                   </h3>
                   <a href="mailto:contact@tuan.com">contact@tuan.com</a>
                   <a href="tel:973-635-8147">973-635-8147</a>
@@ -22,7 +22,7 @@
 
                 <div class="edit-profiles">
                   <NuxtLink
-                    to="/edit-profile"
+                    to="/OldXPervert/edit-profile"
                     class="btn btn-warning text-white"
                   >
                     Edit Profile
@@ -55,7 +55,7 @@
 
                 <div class="edit-address">
                   <NuxtLink
-                    to="/edit-address"
+                    to="/OldXPervert/edit-address"
                     class="btn btn-warning text-white"
                   >
                     Edit Address

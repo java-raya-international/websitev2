@@ -59,7 +59,7 @@
               <v-col cols="12" lg="3" sm="6">
                 <div class="single-product-telemobile-item">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-6.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -76,7 +76,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Multiplatform Wireless Noise-Cancelling Gaming Headset
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -115,7 +115,7 @@
               <v-col cols="12" lg="3" sm="6">
                 <div class="single-product-telemobile-item">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-7.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -132,7 +132,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       GPS Smartwatch with Bright Touchscreen Display
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -171,7 +171,7 @@
               <v-col cols="12" lg="3" sm="6">
                 <div class="single-product-telemobile-item">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-8.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -188,7 +188,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       SAMSUNG 32-Inch Class QLED 4K Q60C Series Quantum HDR
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -227,7 +227,7 @@
               <v-col cols="12" lg="3" sm="6">
                 <div class="single-product-telemobile-item">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-9.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -244,7 +244,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Apple MacBook Pro 16.2" with Liquid Retina XDR Display
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -283,7 +283,7 @@
               <v-col cols="12" lg="3" sm="6">
                 <div class="single-product-telemobile-item">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-20.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -302,7 +302,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       15 Pro Max 5G Unlocked Smartphone,6GB+256GB
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -341,7 +341,7 @@
               <v-col cols="12" lg="3" sm="6">
                 <div class="single-product-telemobile-item">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-21.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -358,7 +358,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Wireless Bluetooth Over Ear Headphones, Noise Cancelling
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -397,7 +397,7 @@
               <v-col cols="12" lg="3" sm="6">
                 <div class="single-product-telemobile-item">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-22.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -414,7 +414,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Smart Watch (Answer/Make Calls), 1.85" Smart Watches
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -453,7 +453,7 @@
               <v-col cols="12" lg="3" sm="6">
                 <div class="single-product-telemobile-item">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-23.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -470,7 +470,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       32 inch D-Series HD 720p Smart TV with Apple AirPlay
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -509,7 +509,7 @@
               <v-col cols="12" lg="3" sm="6">
                 <div class="single-product-telemobile-item">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-14.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -528,7 +528,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Mini Drone for Beginners, SYMA Portable Indoor
                       Quadcopter</NuxtLink
                     >
@@ -566,7 +566,7 @@
               <v-col cols="12" lg="3" sm="6">
                 <div class="single-product-telemobile-item">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-15.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -585,7 +585,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >5K Digital Camera, WiFi Vlogging with 32G SD
                       Card</NuxtLink
                     >
@@ -623,7 +623,7 @@
               <v-col cols="12" lg="3" sm="6">
                 <div class="single-product-telemobile-item">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-10.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -642,7 +642,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Wireless Bluetooth Over Ear Headphones, with
                       Active</NuxtLink
                     >
@@ -680,7 +680,7 @@
               <v-col cols="12" lg="3" sm="6">
                 <div class="single-product-telemobile-item">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-24.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -697,7 +697,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >14 Pro Max 5G Unlocked Smartphone - 6GB+256GB</NuxtLink
                     >
                     <div class="d-flex gap-1 review">
@@ -758,7 +758,7 @@
                 >
                   <div class="flex-shrink-0">
                     <div class="product-img position-relative">
-                      <NuxtLink to="/product-details" class="d-block">
+                      <NuxtLink to="/OldXPervert/product-details" class="d-block">
                         <img
                           src="~/assets/images/product-6.png"
                           alt="product"
@@ -780,7 +780,7 @@
                   </div>
                   <div class="flex-grow-1 ms-sm-3">
                     <div class="product-content">
-                      <NuxtLink to="/product-details" class="title">
+                      <NuxtLink to="/OldXPervert/product-details" class="title">
                         Multiplatform Wireless Noise-Cancelling Gaming Headset
                       </NuxtLink>
                       <div class="d-flex gap-1 review">
@@ -823,7 +823,7 @@
                 >
                   <div class="flex-shrink-0">
                     <div class="product-img position-relative">
-                      <NuxtLink to="/product-details" class="d-block">
+                      <NuxtLink to="/OldXPervert/product-details" class="d-block">
                         <img
                           src="~/assets/images/product-7.png"
                           alt="product"
@@ -845,7 +845,7 @@
                   </div>
                   <div class="flex-grow-1 ms-sm-3">
                     <div class="product-content">
-                      <NuxtLink to="/product-details" class="title"
+                      <NuxtLink to="/OldXPervert/product-details" class="title"
                         >GPS Smartwatch with Bright Touchscreen
                         Display</NuxtLink
                       >
@@ -887,7 +887,7 @@
                 >
                   <div class="flex-shrink-0">
                     <div class="product-img position-relative">
-                      <NuxtLink to="/product-details" class="d-block">
+                      <NuxtLink to="/OldXPervert/product-details" class="d-block">
                         <img
                           src="~/assets/images/product-8.png"
                           alt="product"
@@ -909,7 +909,7 @@
                   </div>
                   <div class="flex-grow-1 ms-sm-3">
                     <div class="product-content">
-                      <NuxtLink to="/product-details" class="title"
+                      <NuxtLink to="/OldXPervert/product-details" class="title"
                         >SAMSUNG 32-Inch Class QLED 4K Q60C Series Quantum
                         HDR</NuxtLink
                       >
@@ -951,7 +951,7 @@
                 >
                   <div class="flex-shrink-0">
                     <div class="product-img position-relative">
-                      <NuxtLink to="/product-details" class="d-block">
+                      <NuxtLink to="/OldXPervert/product-details" class="d-block">
                         <img
                           src="~/assets/images/product-9.png"
                           alt="product"
@@ -973,7 +973,7 @@
                   </div>
                   <div class="flex-grow-1 ms-sm-3">
                     <div class="product-content">
-                      <NuxtLink to="/product-details" class="title"
+                      <NuxtLink to="/OldXPervert/product-details" class="title"
                         >Apple MacBook Pro 16.2" with Liquid Retina XDR
                         Display</NuxtLink
                       >
@@ -1015,7 +1015,7 @@
                 >
                   <div class="flex-shrink-0">
                     <div class="product-img position-relative">
-                      <NuxtLink to="/product-details" class="d-block">
+                      <NuxtLink to="/OldXPervert/product-details" class="d-block">
                         <img
                           src="~/assets/images/product-20.png"
                           alt="product"
@@ -1039,7 +1039,7 @@
                   </div>
                   <div class="flex-grow-1 ms-sm-3">
                     <div class="product-content">
-                      <NuxtLink to="/product-details" class="title"
+                      <NuxtLink to="/OldXPervert/product-details" class="title"
                         >15 Pro Max 5G Unlocked Smartphone,6GB+256GB</NuxtLink
                       >
                       <div class="d-flex gap-1 review">
@@ -1080,7 +1080,7 @@
                 >
                   <div class="flex-shrink-0">
                     <div class="product-img position-relative">
-                      <NuxtLink to="/product-details" class="d-block">
+                      <NuxtLink to="/OldXPervert/product-details" class="d-block">
                         <img
                           src="~/assets/images/product-21.png"
                           alt="product"
@@ -1102,7 +1102,7 @@
                   </div>
                   <div class="flex-grow-1 ms-sm-3">
                     <div class="product-content">
-                      <NuxtLink to="/product-details" class="title"
+                      <NuxtLink to="/OldXPervert/product-details" class="title"
                         >Wireless Bluetooth Over Ear Headphones, Noise
                         Cancelling</NuxtLink
                       >
@@ -1144,7 +1144,7 @@
                 >
                   <div class="flex-shrink-0">
                     <div class="product-img position-relative">
-                      <NuxtLink to="/product-details" class="d-block">
+                      <NuxtLink to="/OldXPervert/product-details" class="d-block">
                         <img
                           src="~/assets/images/product-22.png"
                           alt="product"
@@ -1166,7 +1166,7 @@
                   </div>
                   <div class="flex-grow-1 ms-sm-3">
                     <div class="product-content">
-                      <NuxtLink to="/product-details" class="title"
+                      <NuxtLink to="/OldXPervert/product-details" class="title"
                         >Smart Watch (Answer/Make Calls), 1.85" Smart
                         Watches</NuxtLink
                       >
@@ -1208,7 +1208,7 @@
                 >
                   <div class="flex-shrink-0">
                     <div class="product-img position-relative">
-                      <NuxtLink to="/product-details" class="d-block">
+                      <NuxtLink to="/OldXPervert/product-details" class="d-block">
                         <img
                           src="~/assets/images/product-23.png"
                           alt="product"
@@ -1230,7 +1230,7 @@
                   </div>
                   <div class="flex-grow-1 ms-sm-3">
                     <div class="product-content">
-                      <NuxtLink to="/product-details" class="title"
+                      <NuxtLink to="/OldXPervert/product-details" class="title"
                         >32 inch D-Series HD 720p Smart TV with Apple
                         AirPlay</NuxtLink
                       >
@@ -1272,7 +1272,7 @@
                 >
                   <div class="flex-shrink-0">
                     <div class="product-img position-relative">
-                      <NuxtLink to="/product-details" class="d-block">
+                      <NuxtLink to="/OldXPervert/product-details" class="d-block">
                         <img
                           src="~/assets/images/product-14.png"
                           alt="product"
@@ -1296,7 +1296,7 @@
                   </div>
                   <div class="flex-grow-1 ms-sm-3">
                     <div class="product-content">
-                      <NuxtLink to="/product-details" class="title"
+                      <NuxtLink to="/OldXPervert/product-details" class="title"
                         >Mini Drone for Beginners, SYMA Portable Indoor
                         Quadcopter</NuxtLink
                       >
@@ -1338,7 +1338,7 @@
                 >
                   <div class="flex-shrink-0">
                     <div class="product-img position-relative">
-                      <NuxtLink to="/product-details" class="d-block">
+                      <NuxtLink to="/OldXPervert/product-details" class="d-block">
                         <img
                           src="~/assets/images/product-15.png"
                           alt="product"
@@ -1362,7 +1362,7 @@
                   </div>
                   <div class="flex-grow-1 ms-sm-3">
                     <div class="product-content">
-                      <NuxtLink to="/product-details" class="title"
+                      <NuxtLink to="/OldXPervert/product-details" class="title"
                         >5K Digital Camera, WiFi Vlogging with 32G SD
                         Card</NuxtLink
                       >
@@ -1404,7 +1404,7 @@
                 >
                   <div class="flex-shrink-0">
                     <div class="product-img position-relative">
-                      <NuxtLink to="/product-details" class="d-block">
+                      <NuxtLink to="/OldXPervert/product-details" class="d-block">
                         <img
                           src="~/assets/images/product-10.png"
                           alt="product"
@@ -1428,7 +1428,7 @@
                   </div>
                   <div class="flex-grow-1 ms-sm-3">
                     <div class="product-content">
-                      <NuxtLink to="/product-details" class="title"
+                      <NuxtLink to="/OldXPervert/product-details" class="title"
                         >Wireless Bluetooth Over Ear Headphones, with
                         Active</NuxtLink
                       >
@@ -1470,7 +1470,7 @@
                 >
                   <div class="flex-shrink-0">
                     <div class="product-img position-relative">
-                      <NuxtLink to="/product-details" class="d-block">
+                      <NuxtLink to="/OldXPervert/product-details" class="d-block">
                         <img
                           src="~/assets/images/product-24.png"
                           alt="product"
@@ -1492,7 +1492,7 @@
                   </div>
                   <div class="flex-grow-1 ms-sm-3">
                     <div class="product-content">
-                      <NuxtLink to="/product-details" class="title"
+                      <NuxtLink to="/OldXPervert/product-details" class="title"
                         >14 Pro Max 5G Unlocked Smartphone - 6GB+256GB</NuxtLink
                       >
                       <div class="d-flex gap-1 review">

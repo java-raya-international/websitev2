@@ -13,7 +13,7 @@
             <div class="row">
               <div class="col-lg-6">
                 <div class="added-address">
-                  <NuxtLink to="/address" class="text-decoration-none">
+                  <NuxtLink to="/OldXPervert/address" class="text-decoration-none">
                     <i class="ri-add-line"></i>
                     <span>Add address</span>
                   </NuxtLink>
@@ -43,7 +43,7 @@
 
                   <div class="edit-address">
                     <NuxtLink
-                      to="/edit-address"
+                      to="/OldXPervert/edit-address"
                       class="btn edit btn-warning text-white"
                     >
                       Edit

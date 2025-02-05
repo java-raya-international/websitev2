@@ -19,7 +19,7 @@
           </v-tabs>
         </div>
         <div>
-          <NuxtLink to="/products" class="read-more">
+          <NuxtLink to="/OldXPervert/products" class="read-more">
             <span>See All</span>
             <i class="ri-arrow-right-up-line ms-1"></i>
           </NuxtLink>
@@ -33,7 +33,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-34.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -50,7 +50,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Organic Valley Grassmilk, 100% Grass Fed Whole Milk,
                       Organic
                     </NuxtLink>
@@ -83,7 +83,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-35.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -100,7 +100,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Cage-Free, Large White Eggs, Grade AA, 6 Count
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -131,7 +131,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-36.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -148,7 +148,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Low-Fat Vanilla Greek Yogurt, Mixed Berry on the Bottom
                       5.3oz
                     </NuxtLink>
@@ -181,7 +181,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-37.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -198,7 +198,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Happy Belly Shredded Mexican Four Cheese Blend, 32
                       Ounce</NuxtLink
                     >
@@ -238,7 +238,7 @@
                   <span class="top-title">Today’s Deal</span>
                   <h3>Natural Milk</h3>
                   <p>Up to 70% off!</p>
-                  <NuxtLink to="/products" class="read-more warning">
+                  <NuxtLink to="/OldXPervert/products" class="read-more warning">
                     <span>Shop Now</span>
                     <i class="ri-arrow-right-up-line ms-1"></i>
                   </NuxtLink>
@@ -251,7 +251,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-34.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -268,7 +268,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Organic Valley Grassmilk, 100% Grass Fed Whole Milk,
                       Organic
                     </NuxtLink>
@@ -301,7 +301,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-35.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -318,7 +318,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title">
+                    <NuxtLink to="/OldXPervert/product-details" class="title">
                       Cage-Free, Large White Eggs, Grade AA, 6 Count
                     </NuxtLink>
                     <div class="d-flex gap-1 review">
@@ -350,7 +350,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-36.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -367,7 +367,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Low-Fat Vanilla Greek Yogurt, Mixed Berry on the Bottom
                       5.3oz</NuxtLink
                     >
@@ -399,7 +399,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-37.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -416,7 +416,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Happy Belly Shredded Mexican Four Cheese Blend, 32
                       Ounce</NuxtLink
                     >
@@ -455,7 +455,7 @@
                   <span class="top-title">Today’s Deal</span>
                   <h3>Natural Milk</h3>
                   <p>Up to 70% off!</p>
-                  <NuxtLink to="/products" class="read-more warning">
+                  <NuxtLink to="/OldXPervert/products" class="read-more warning">
                     <span>Shop Now</span>
                     <i class="ri-arrow-right-up-line ms-1"></i>
                   </NuxtLink>
@@ -468,7 +468,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-34.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -485,7 +485,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Organic Valley Grassmilk, 100% Grass Fed Whole Milk,
                       Organic</NuxtLink
                     >
@@ -518,7 +518,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-35.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -535,7 +535,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Cage-Free, Large White Eggs, Grade AA, 6 Count</NuxtLink
                     >
                     <div class="d-flex gap-1 review">
@@ -566,7 +566,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-36.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -583,7 +583,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Low-Fat Vanilla Greek Yogurt, Mixed Berry on the Bottom
                       5.3oz</NuxtLink
                     >
@@ -615,7 +615,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-34.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -632,7 +632,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Organic Valley Grassmilk, 100% Grass Fed Whole Milk,
                       Organic</NuxtLink
                     >
@@ -672,7 +672,7 @@
                   <span class="top-title">Today’s Deal</span>
                   <h3>Natural Milk</h3>
                   <p>Up to 70% off!</p>
-                  <NuxtLink to="/products" class="read-more warning">
+                  <NuxtLink to="/OldXPervert/products" class="read-more warning">
                     <span>Shop Now</span>
                     <i class="ri-arrow-right-up-line ms-1"></i>
                   </NuxtLink>
@@ -685,7 +685,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-34.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -702,7 +702,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Organic Valley Grassmilk, 100% Grass Fed Whole Milk,
                       Organic</NuxtLink
                     >
@@ -735,7 +735,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-35.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -752,7 +752,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Cage-Free, Large White Eggs, Grade AA, 6 Count</NuxtLink
                     >
                     <div class="d-flex gap-1 review">
@@ -783,7 +783,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-36.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -800,7 +800,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Low-Fat Vanilla Greek Yogurt, Mixed Berry on the Bottom
                       5.3oz</NuxtLink
                     >
@@ -832,7 +832,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-37.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -849,7 +849,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Happy Belly Shredded Mexican Four Cheese Blend, 32
                       Ounce</NuxtLink
                     >
@@ -888,7 +888,7 @@
                   <span class="top-title">Today’s Deal</span>
                   <h3>Natural Milk</h3>
                   <p>Up to 70% off!</p>
-                  <NuxtLink to="/products" class="read-more warning">
+                  <NuxtLink to="/OldXPervert/products" class="read-more warning">
                     <span>Shop Now</span>
                     <i class="ri-arrow-right-up-line ms-1"></i>
                   </NuxtLink>
@@ -901,7 +901,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-34.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -918,7 +918,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Organic Valley Grassmilk, 100% Grass Fed Whole Milk,
                       Organic</NuxtLink
                     >
@@ -951,7 +951,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-35.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -968,7 +968,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Cage-Free, Large White Eggs, Grade AA, 6 Count</NuxtLink
                     >
                     <div class="d-flex gap-1 review">
@@ -999,7 +999,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-36.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -1016,7 +1016,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Low-Fat Vanilla Greek Yogurt, Mixed Berry on the Bottom
                       5.3oz</NuxtLink
                     >
@@ -1048,7 +1048,7 @@
               <div class="col-c-20">
                 <div class="single-product-telemobile-item mx-minus-1 mb-4">
                   <div class="product-img position-relative">
-                    <NuxtLink to="/product-details" class="d-block">
+                    <NuxtLink to="/OldXPervert/product-details" class="d-block">
                       <img src="~/assets/images/product-37.png" alt="product" />
                     </NuxtLink>
                     <div
@@ -1065,7 +1065,7 @@
                     </div>
                   </div>
                   <div class="product-content">
-                    <NuxtLink to="/product-details" class="title"
+                    <NuxtLink to="/OldXPervert/product-details" class="title"
                       >Happy Belly Shredded Mexican Four Cheese Blend, 32
                       Ounce</NuxtLink
                     >
@@ -1104,7 +1104,7 @@
                   <span class="top-title">Today’s Deal</span>
                   <h3>Natural Milk</h3>
                   <p>Up to 70% off!</p>
-                  <NuxtLink to="/products" class="read-more warning">
+                  <NuxtLink to="/OldXPervert/products" class="read-more warning">
                     <span>Shop Now</span>
                     <i class="ri-arrow-right-up-line ms-1"></i>
                   </NuxtLink>

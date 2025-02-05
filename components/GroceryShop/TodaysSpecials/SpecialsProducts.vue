@@ -41,7 +41,7 @@
     <SwiperSlide v-for="product in products" :key="product.id">
       <div class="single-product-telemobile-item">
         <div class="product-img position-relative">
-          <NuxtLink to="/product-details-grocery" class="d-block">
+          <NuxtLink to="/OldXPervert/product-details-grocery" class="d-block">
             <img :src="product.image" alt="product" />
           </NuxtLink>
           <div
@@ -58,7 +58,7 @@
           </div>
         </div>
         <div class="product-content">
-          <NuxtLink to="/product-details-grocery" class="title">
+          <NuxtLink to="/OldXPervert/product-details-grocery" class="title">
             {{ product.title }}
           </NuxtLink>
           <div class="d-flex gap-1 review">

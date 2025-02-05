@@ -37,12 +37,12 @@
                 </NuxtLink>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/grocery-shop">
+                <NuxtLink class="dropdown-item" to="/OldXPervert/grocery-shop">
                   Grocery Shop
                 </NuxtLink>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/healthy-diet-foods-shop">
+                <NuxtLink class="dropdown-item" to="/OldXPervert/healthy-diet-foods-shop">
                   Healthy Diet Foods Shop
                 </NuxtLink>
               </li>
@@ -54,7 +54,7 @@
 
             <ul class="dropdown-menu">
               <li>
-                <NuxtLink class="dropdown-item" to="/about-us">
+                <NuxtLink class="dropdown-item" to="/OldXPervert/about-us">
                   About Us
                 </NuxtLink>
               </li>
@@ -66,42 +66,42 @@
 
                 <ul class="dropdown-menu">
                   <li>
-                    <NuxtLink class="dropdown-item" to="/login">
+                    <NuxtLink class="dropdown-item" to="/OldXPervert/login">
                       Login
                     </NuxtLink>
                   </li>
                   <li>
-                    <NuxtLink class="dropdown-item" to="/register">
+                    <NuxtLink class="dropdown-item" to="/OldXPervert/register">
                       Register
                     </NuxtLink>
                   </li>
                   <li>
-                    <NuxtLink class="dropdown-item" to="/my-account">
+                    <NuxtLink class="dropdown-item" to="/OldXPervert/my-account">
                       My Account
                     </NuxtLink>
                   </li>
                   <li>
-                    <NuxtLink class="dropdown-item" to="/change-password">
+                    <NuxtLink class="dropdown-item" to="/OldXPervert/change-password">
                       Change Password
                     </NuxtLink>
                   </li>
                   <li>
-                    <NuxtLink class="dropdown-item" to="/forgot-password">
+                    <NuxtLink class="dropdown-item" to="/OldXPervert/forgot-password">
                       Forgot Password
                     </NuxtLink>
                   </li>
                 </ul>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/faq"> FAQ </NuxtLink>
+                <NuxtLink class="dropdown-item" to="/OldXPervert/faq"> FAQ </NuxtLink>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/privacy-policy">
+                <NuxtLink class="dropdown-item" to="/OldXPervert/privacy-policy">
                   Privacy Policy
                 </NuxtLink>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/terms-conditions">
+                <NuxtLink class="dropdown-item" to="/OldXPervert/terms-conditions">
                   Terms & Conditions
                 </NuxtLink>
               </li>
@@ -119,27 +119,27 @@
 
                     <ul class="sub-menu">
                       <li>
-                        <NuxtLink class="dropdown-item" to="/best-sellers">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/best-sellers">
                           Best Sellers
                         </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink class="dropdown-item" to="/featured-products">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/featured-products">
                           Featured Products
                         </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink class="dropdown-item" to="/trending-products">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/trending-products">
                           Trending Products
                         </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink class="dropdown-item" to="/new-arrivals">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/new-arrivals">
                           New Arrivals
                         </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink class="dropdown-item" to="/categories">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/categories">
                           Categories
                         </NuxtLink>
                       </li>
@@ -151,27 +151,27 @@
 
                     <ul class="sub-menu">
                       <li>
-                        <NuxtLink class="dropdown-item" to="/products">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/products">
                           Products
                         </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink class="dropdown-item" to="/cart">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/cart">
                           Cart
                         </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink class="dropdown-item" to="/wishlist">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/wishlist">
                           Wishlist
                         </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink class="dropdown-item" to="/checkout">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/checkout">
                           Checkout
                         </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink class="dropdown-item" to="/product-details">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/product-details">
                           Product Details
                         </NuxtLink>
                       </li>
@@ -183,27 +183,27 @@
 
                     <ul class="sub-menu">
                       <li>
-                        <NuxtLink class="dropdown-item" to="/dashboard">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/dashboard">
                           Dashboard
                         </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink class="dropdown-item" to="/edit-profile">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/edit-profile">
                           Edit Profile
                         </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink class="dropdown-item" to="/order-history">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/order-history">
                           Order History
                         </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink class="dropdown-item" to="/order-details">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/order-details">
                           Order Details
                         </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink class="dropdown-item" to="/password">
+                        <NuxtLink class="dropdown-item" to="/OldXPervert/password">
                           Change Password
                         </NuxtLink>
                       </li>
@@ -212,7 +212,7 @@
 
                   <div class="col">
                     <NuxtLink
-                      to="/products"
+                      to="/OldXPervert/products"
                       class="bg-img menu-img"
                       :style="{
                         'background-image': `url(${image})`,
@@ -230,25 +230,25 @@
 
             <ul class="dropdown-menu">
               <li>
-                <NuxtLink class="dropdown-item" to="/our-blog">
+                <NuxtLink class="dropdown-item" to="/OldXPervert/our-blog">
                   Our Blog
                 </NuxtLink>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/blog-details">
+                <NuxtLink class="dropdown-item" to="/OldXPervert/blog-details">
                   Blog Details
                 </NuxtLink>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/tags"> Tags </NuxtLink>
+                <NuxtLink class="dropdown-item" to="/OldXPervert/tags"> Tags </NuxtLink>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/categories">
+                <NuxtLink class="dropdown-item" to="/OldXPervert/categories">
                   Categories
                 </NuxtLink>
               </li>
               <li>
-                <NuxtLink class="dropdown-item" to="/author"> Author </NuxtLink>
+                <NuxtLink class="dropdown-item" to="/OldXPervert/author"> Author </NuxtLink>
               </li>
             </ul>
           </li>

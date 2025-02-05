@@ -109,6 +109,16 @@ const navigateTo = (path) => {
                   discuss.
                 </v-btn>
               </div>
+              <div v-if="filteredProduct?.cryptoInvoiceEnabled==='true'">
+                <h2 class="price">Crypto buy</h2>
+                <div>We provide crypto invoice for this product.
+                  <v-btn target="_blank"
+                         href="https://calendly.com/nicko-bokongsemok/schedule-free-consulting-javaraya">
+                    Lets
+                    discuss.
+                  </v-btn>
+                </div>
+              </div>
             </div>
 
             <div v-else>
@@ -118,6 +128,10 @@ const navigateTo = (path) => {
                 discuss.
               </v-btn>
               for your specific needs.
+              <span v-if="filteredProduct?.cryptoInvoiceEnabled==='true'">
+                We also provide <strong>Crypto Invoice</strong> for this product.
+
+              </span>
             </div>
 
 

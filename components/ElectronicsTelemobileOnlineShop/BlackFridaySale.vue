@@ -7,7 +7,7 @@
             <span class="top-title">Black Friday Sale</span>
             <h3>Computer & Gaming</h3>
             <p>Up to 70% off!</p>
-            <NuxtLink to="/products" class="read-more">
+            <NuxtLink to="/OldXPervert/products" class="read-more">
               <span>Shop Now</span>
               <i class="ri-arrow-right-up-line ms-1"></i>
             </NuxtLink>
@@ -23,7 +23,7 @@
             <span class="top-title">Black Friday Sale</span>
             <h3 class="text-warning">Home Electronics</h3>
             <p>Up to 70% off!</p>
-            <NuxtLink to="/products" class="read-more">
+            <NuxtLink to="/OldXPervert/products" class="read-more">
               <span>Shop Now</span>
               <i class="ri-arrow-right-up-line ms-1"></i>
             </NuxtLink>
@@ -39,7 +39,7 @@
             <span class="top-title">Black Friday Sale</span>
             <h3 class="text-success">Mobile Accessories</h3>
             <p>Up to 70% off!</p>
-            <NuxtLink to="/products" class="read-more">
+            <NuxtLink to="/OldXPervert/products" class="read-more">
               <span>Shop Now</span>
               <i class="ri-arrow-right-up-line ms-1"></i>
             </NuxtLink>

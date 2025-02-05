@@ -14,7 +14,7 @@
                 <div class="cart-totals">
                   <h3>Order number: #001</h3>
                   <p>Order created at: 30 August, 2021</p>
-                  <NuxtLink to="/order-history" class="read-more">
+                  <NuxtLink to="/OldXPervert/order-history" class="read-more">
                     Back History
                   </NuxtLink>
                   <ul>
@@ -55,7 +55,7 @@
 
                 <div class="edit-address">
                   <NuxtLink
-                    to="/edit-address"
+                    to="/OldXPervert/edit-address"
                     class="btn btn-warning text-white"
                   >
                     Edit Address

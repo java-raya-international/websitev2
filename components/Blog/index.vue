@@ -6,7 +6,7 @@
           <v-row>
             <v-col cols="12" lg="12" md="6">
               <div class="single-blog-item">
-                <NuxtLink to="/blog-details" class="blog-img">
+                <NuxtLink to="/OldXPervert/blog-details" class="blog-img">
                   <img src="~/assets/images/blog-1.jpg" alt="blog" />
                 </NuxtLink>
 
@@ -20,14 +20,14 @@
                   </li>
                   <li>
                     <i class="ri-question-answer-line text-warning"></i>
-                    <NuxtLink to="/blog-details" class="text-decoration-none">
+                    <NuxtLink to="/OldXPervert/blog-details" class="text-decoration-none">
                       03 Comments
                     </NuxtLink>
                   </li>
                 </ul>
 
                 <h2>
-                  <NuxtLink to="/blog-details">
+                  <NuxtLink to="/OldXPervert/blog-details">
                     The Future of Tech: A Sneak Peek into Innovation
                   </NuxtLink>
                 </h2>
@@ -36,7 +36,7 @@
                   innovations that will shape the future. Highlight real-world
                   applications and potential impacts on various industries
                 </p>
-                <NuxtLink to="/blog-details" class="read-more">
+                <NuxtLink to="/OldXPervert/blog-details" class="read-more">
                   <span>Read More</span>
                   <i class="ri-arrow-right-up-line"></i>
                 </NuxtLink>
@@ -44,7 +44,7 @@
             </v-col>
             <v-col cols="12" lg="12" md="6">
               <div class="single-blog-item">
-                <NuxtLink to="/blog-details" class="blog-img">
+                <NuxtLink to="/OldXPervert/blog-details" class="blog-img">
                   <img src="~/assets/images/blog-2.jpg" alt="blog" />
                 </NuxtLink>
 
@@ -58,14 +58,14 @@
                   </li>
                   <li>
                     <i class="ri-question-answer-line text-warning"></i>
-                    <NuxtLink to="/blog-details" class="text-decoration-none">
+                    <NuxtLink to="/OldXPervert/blog-details" class="text-decoration-none">
                       03 Comments
                     </NuxtLink>
                   </li>
                 </ul>
 
                 <h2>
-                  <NuxtLink to="/blog-details">
+                  <NuxtLink to="/OldXPervert/blog-details">
                     The Future of Tech: A Sneak Peek into Innovation
                   </NuxtLink>
                 </h2>
@@ -74,7 +74,7 @@
                   innovations that will shape the future. Highlight real-world
                   applications and potential impacts on various industries
                 </p>
-                <NuxtLink to="/blog-details" class="read-more">
+                <NuxtLink to="/OldXPervert/blog-details" class="read-more">
                   <span>Read More</span>
                   <i class="ri-arrow-right-up-line"></i>
                 </NuxtLink>
@@ -82,7 +82,7 @@
             </v-col>
             <v-col cols="12" lg="12" md="6">
               <div class="single-blog-item">
-                <NuxtLink to="/blog-details" class="blog-img">
+                <NuxtLink to="/OldXPervert/blog-details" class="blog-img">
                   <img src="~/assets/images/blog-3.jpg" alt="blog" />
                 </NuxtLink>
 
@@ -96,14 +96,14 @@
                   </li>
                   <li>
                     <i class="ri-question-answer-line text-warning"></i>
-                    <NuxtLink to="/blog-details" class="text-decoration-none">
+                    <NuxtLink to="/OldXPervert/blog-details" class="text-decoration-none">
                       03 Comments
                     </NuxtLink>
                   </li>
                 </ul>
 
                 <h2>
-                  <NuxtLink to="/blog-details">
+                  <NuxtLink to="/OldXPervert/blog-details">
                     The Future of Tech: A Sneak Peek into Innovation
                   </NuxtLink>
                 </h2>
@@ -112,7 +112,7 @@
                   innovations that will shape the future. Highlight real-world
                   applications and potential impacts on various industries
                 </p>
-                <NuxtLink to="/blog-details" class="read-more">
+                <NuxtLink to="/OldXPervert/blog-details" class="read-more">
                   <span>Read More</span>
                   <i class="ri-arrow-right-up-line"></i>
                 </NuxtLink>
@@ -120,7 +120,7 @@
             </v-col>
             <v-col cols="12" lg="12" md="6">
               <div class="single-blog-item">
-                <NuxtLink to="/blog-details" class="blog-img">
+                <NuxtLink to="/OldXPervert/blog-details" class="blog-img">
                   <img src="~/assets/images/blog-4.jpg" alt="blog" />
                 </NuxtLink>
 
@@ -134,14 +134,14 @@
                   </li>
                   <li>
                     <i class="ri-question-answer-line text-warning"></i>
-                    <NuxtLink to="/blog-details" class="text-decoration-none">
+                    <NuxtLink to="/OldXPervert/blog-details" class="text-decoration-none">
                       03 Comments
                     </NuxtLink>
                   </li>
                 </ul>
 
                 <h2>
-                  <NuxtLink to="/blog-details">
+                  <NuxtLink to="/OldXPervert/blog-details">
                     The Future of Tech: A Sneak Peek into Innovation
                   </NuxtLink>
                 </h2>
@@ -150,7 +150,7 @@
                   innovations that will shape the future. Highlight real-world
                   applications and potential impacts on various industries
                 </p>
-                <NuxtLink to="/blog-details" class="read-more">
+                <NuxtLink to="/OldXPervert/blog-details" class="read-more">
                   <span>Read More</span>
                   <i class="ri-arrow-right-up-line"></i>
                 </NuxtLink>
@@ -196,13 +196,13 @@
 
               <div class="d-flex align-items-center popular-item">
                 <div class="flex-shrink-0">
-                  <NuxtLink to="/blog-details" class="d-block">
+                  <NuxtLink to="/OldXPervert/blog-details" class="d-block">
                     <img src="~/assets/images/blog-5.jpg" alt="blog" />
                   </NuxtLink>
                 </div>
                 <div class="flex-grow-1 ms-3">
                   <h6>
-                    <NuxtLink to="/blog-details">
+                    <NuxtLink to="/OldXPervert/blog-details">
                       The Art of Tech Gifting: Finding the Perfect Present
                     </NuxtLink>
                   </h6>
@@ -214,13 +214,13 @@
               </div>
               <div class="d-flex align-items-center popular-item">
                 <div class="flex-shrink-0">
-                  <NuxtLink to="/blog-details" class="d-block">
+                  <NuxtLink to="/OldXPervert/blog-details" class="d-block">
                     <img src="~/assets/images/blog-6.jpg" alt="blog" />
                   </NuxtLink>
                 </div>
                 <div class="flex-grow-1 ms-3">
                   <h6>
-                    <NuxtLink to="/blog-details">
+                    <NuxtLink to="/OldXPervert/blog-details">
                       Mastering the Art of Wearables: A Comprehensive Guide
                     </NuxtLink>
                   </h6>
@@ -232,13 +232,13 @@
               </div>
               <div class="d-flex align-items-center popular-item">
                 <div class="flex-shrink-0">
-                  <NuxtLink to="/blog-details" class="d-block">
+                  <NuxtLink to="/OldXPervert/blog-details" class="d-block">
                     <img src="~/assets/images/blog-7.jpg" alt="blog" />
                   </NuxtLink>
                 </div>
                 <div class="flex-grow-1 ms-3">
                   <h6>
-                    <NuxtLink to="/blog-details">
+                    <NuxtLink to="/OldXPervert/blog-details">
                       Tech Trends 2023: What's Shaping the Digital Landscape?
                     </NuxtLink>
                   </h6>
@@ -254,19 +254,19 @@
 
               <ul class="ps-0 mb-0 list-unstyled categories">
                 <li>
-                  <NuxtLink to="/categories">Smartphone</NuxtLink>
+                  <NuxtLink to="/OldXPervert/categories">Smartphone</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/categories">Laptop</NuxtLink>
+                  <NuxtLink to="/OldXPervert/categories">Laptop</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/categories">Headphone</NuxtLink>
+                  <NuxtLink to="/OldXPervert/categories">Headphone</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/categories">Smart Watch</NuxtLink>
+                  <NuxtLink to="/OldXPervert/categories">Smart Watch</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/categories">iPad</NuxtLink>
+                  <NuxtLink to="/OldXPervert/categories">iPad</NuxtLink>
                 </li>
               </ul>
             </div>
@@ -275,19 +275,19 @@
 
               <ul class="ps-0 mb-0 list-unstyled tags">
                 <li>
-                  <NuxtLink to="/tags">Smartphone</NuxtLink>
+                  <NuxtLink to="/OldXPervert/tags">Smartphone</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/tags">Laptop</NuxtLink>
+                  <NuxtLink to="/OldXPervert/tags">Laptop</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/tags">AirPod</NuxtLink>
+                  <NuxtLink to="/OldXPervert/tags">AirPod</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/tags">Tablet</NuxtLink>
+                  <NuxtLink to="/OldXPervert/tags">Tablet</NuxtLink>
                 </li>
                 <li>
-                  <NuxtLink to="/tags">Headphone</NuxtLink>
+                  <NuxtLink to="/OldXPervert/tags">Headphone</NuxtLink>
                 </li>
               </ul>
             </div>
