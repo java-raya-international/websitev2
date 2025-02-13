@@ -55,6 +55,28 @@ export default defineNuxtConfig({
 
     ],
 
+    turnstile: {
+        siteKey: process.env.NUXT_PUBLIC_TURNSTILE_SITE_KEY,
+    },
+
+    router: {
+        middleware: ['turnstile'], // Global middleware (alternative to beforeEach)
+    },
+
+
+    runtimeConfig: {
+        public: {
+            turnstile: {
+                siteKey: process.env.NUXT_PUBLIC_TURNSTILE_SITE_KEY,
+            },
+        },
+        turnstile: {
+            // This can be overridden at runtime via the NUXT_TURNSTILE_SECRET_KEY
+            // environment variable.
+            secretKey: process.env.NUXT_TURNSTILE_SECRET_KEY,
+        },
+    },
+
 
     socialShare: {
         baseUrl: 'https://javaraya.co.uk'

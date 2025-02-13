@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  $END$
+  <div>
+    <h1>Turnstile Verification Failed</h1>
+  </div>
 </template>
 
 <style scoped lang="scss">
