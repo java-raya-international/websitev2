@@ -18,7 +18,6 @@
     "@nuxt/content": "^3.0.0",
     "@nuxt/icon": "1.10.3",
     "@nuxt/scripts": "0.10.1",
-    "@nuxtjs/turnstile": "0.9.12",
     "@prisma/client": "^6.3.1",
     "@prisma/extension-accelerate": "^1.2.1",
     "@stefanobartoletti/nuxt-social-share": "^1.2.1",
