@@ -1,18 +1,5 @@
 <script setup lang="ts">
 
-import {onMounted} from "vue";
-
-onMounted(() => {
-  const script = document.createElement('script');
-  script.src = 'https://cdn.jotfor.ms/s/umd/latest/for-form-embed-handler.js';
-  script.async = true;
-  document.body.appendChild(script);
-
-  window.jotformEmbedHandler("iframe[id='JotFormIFrame-250418762765161']", "https://form.jotform.com/")
-
-});
-
-
 </script>
 
 <template>
