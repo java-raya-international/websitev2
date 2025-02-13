@@ -24,9 +24,7 @@ onMounted(() => {
       allowtransparency="true"
       allow="geolocation; microphone; camera; fullscreen"
       src="https://form.jotform.com/250418762765161"
-      frameborder="0"
-      style="min-width:100%;max-width:100%;height:700px;border:none;"
-      scrolling="no"
+      style="min-width:100%;max-width:100%;height:900px;border:none;"
   >
   </iframe>
 
