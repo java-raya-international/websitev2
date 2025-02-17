@@ -55,15 +55,6 @@ export default defineNuxtConfig({
 
     ],
 
-    turnstile: {
-        siteKey: process.env.NUXT_PUBLIC_TURNSTILE_SITE_KEY,
-    },
-
-    router: {
-        middleware: ['turnstile'], // Global middleware (alternative to beforeEach)
-    },
-
-
     runtimeConfig: {
         public: {
             turnstile: {
