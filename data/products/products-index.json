@@ -67,11 +67,11 @@
       {
         "id": "03",
         "subcategory": "oil-coconut-oil-derivative",
-        "title": "Oil, Coconut and Derivative",
+        "title": "Oil, Coconut and Alternate",
         "relativeURL": "/products/materials/oil-coco-derivative",
         "data": "~/data/products/materials/oil-coconut-derivative.json",
         "visible": "true",
-        "enable": "false"
+        "enable": "true"
       }
     ]
   }

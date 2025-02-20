@@ -8,6 +8,7 @@
     "brand": "bas",
     "category": "Material",
     "manufacturingURL": "",
+    "cryptoInvoiceEnabled": "true",
     "tags": [
       "material",
       "coconut material oil"
@@ -160,6 +161,7 @@
     "brand": "bas",
     "category": "Material",
     "manufacturingURL": "",
+    "cryptoInvoiceEnabled": "true",
     "tags": [
       "material",
       "coconut material oil"
@@ -302,6 +304,123 @@
         "value": "0.20"
       }
     ]
+  },
+  {
+    "id": "03020003",
+    "name": "Coconut Shell Charcoal",
+    "description": "co-friendly coconut shell charcoal. High heat, long burn, minimal smoke & ash. Sustainable choice for grilling, BBQ, and more..",
+    "description2": " ",
+    "sku": "FD00000004",
+    "brand": "yuliana-bombana",
+    "category": "Material",
+    "manufacturingURL": "",
+    "cryptoInvoiceEnabled": "true",
+    "tags": [
+      "material",
+      "coconut shell charcoal"
+    ],
+    "genericSpecification": {
+      "isEdible": "false",
+      "moisture": "0",
+      "color": [
+        "black"
+      ],
+      "taste": [
+      ],
+      "smell": [
+      ],
+      "form": [
+        "charcoal"
+      ],
+      "expired": null
+    },
+    "certificates": [
+    ],
+    "images": [
+      {
+        "name": "arang-batok-kelapa-1 ",
+        "URL": "yuliana-bombana-Coconut-Shell-Charcoal.png"
+      },
+      {
+        "name": "arang-batok-kelapa-2 ",
+        "URL": "yuliana-bombana-Coconut-Shell-Charcoal.png"
+      }
+    ],
+    "availablePort": [
+      {
+        "name": "SouthHampton",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Felixstowe",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Piraeus",
+        "country": "Greece"
+      },
+      {
+        "name": "Genoa",
+        "country": "Italy"
+      }
+    ],
+    "logisticScenario": [
+      {
+        "name": "Surabaya to SouthHampton",
+        "from": "Surabaya Tanjung Perak",
+        "to": "SouthHampton, United Kingdom",
+        "baseCurrency": "USD",
+        "logisticProvider": "KING Freight Logistics Indonesia, PT",
+        "logisticPricing": [
+          {
+            "name": "20GP",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "1600"
+          },
+          {
+            "name": "40HQ",
+            "maxWeight": "18",
+            "maxWeightUnits": "Metric Tons",
+            "totalPrice": "2300"
+          }
+        ]
+      }
+    ],
+    "availableGoods": [
+      {
+        "id": "1",
+        "name": "Samples - 20 KG (includes logistic)",
+        "enabled": "true",
+        "visible": "false",
+        "description": "Coconut shell charcoal alternative oil",
+        "maxWeight": "20",
+        "maxWeightUnit": "Kilograms",
+        "factoryPrice": "2",
+        "factoryPriceUnit": "GBP",
+        "totalPrice": "2",
+        "totalPriceUnit": "GBP",
+        "checkOutURL": "",
+        "paymentStripeURL": "https://buy.stripe.com/bIY6oP7kn7jd1EI148",
+        "paymentPaypalURL": "",
+        "paymentCryptoURL": ""
+      }
+    ],
+    "countryOfOriginTaxes": [
+      {
+        "name": "VAT / PPN",
+        "country": "Indonesia",
+        "description": "Value added taxes",
+        "value": "0.12"
+      }
+    ],
+    "countryOfDestinationTaxes": [
+      {
+        "name": "VAT",
+        "country": "United Kingdom",
+        "description": "Value added taxes",
+        "value": "0.20"
+      }
+    ]
   }
-
 ]

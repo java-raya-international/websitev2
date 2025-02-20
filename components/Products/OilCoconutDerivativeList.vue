@@ -1,10 +1,11 @@
 <script setup lang="ts">
 import {defineComponent, ref, watch} from "vue";
-import productCoconutJson from "~/data/products/materials/product-oil-coconut-derivative.json";
+import derivativeCoconutJson from "~/data/products/materials/product-oil-coconut-derivative.json";
 
 const tab = ref(null);
-const coconutProducts = ref(productCoconutJson);
+const derivativeProducts = ref(derivativeCoconutJson);
 const globalCompanyAsset: any = inject("globalCompanyAssetStore");
+
 
 function getCompanyAssetStore(fileName: string) {
   try {
@@ -26,7 +27,7 @@ function getCompanyAssetStore(fileName: string) {
     <div class="container">
       <v-container>
         <v-row>
-          <v-col cols="12" md="4" v-for="(product, index) in coconutProducts" :key="index">
+          <v-col cols="12" md="4" v-for="(product, index) in derivativeProducts" :key="index">
             <v-card class="mx-auto" max-width="320">
               <div class="pa-4">
                 <v-img :src="getCompanyAssetStore(product.images[0].URL)" max-height="200" :alt="product.name"
@@ -43,7 +44,7 @@ function getCompanyAssetStore(fileName: string) {
               </v-card-text>
 
               <v-card-actions class="bg-surface-light">
-                <v-btn :to="`/products/foods/details/coconut-${product.id}`" color="primary" class="right">
+                <v-btn :to="`/products/materials/details/oil-coco-derivative-${product.id}`" color="primary" class="right">
                   Learn More
                 </v-btn>
                 <!--                <v-btn :to="`/products/foods/buy/rice-${product.id}`" color="primary" class="right">-->
